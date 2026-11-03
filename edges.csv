@@ -1,0 +1,265 @@
+source,target,type,detail,date,src
+NVIDIA,OpenAI,investment,"$30B in OpenAI's $110B round; earlier $100B framework abandoned",2026-02,STORY
+NVIDIA,Anthropic,investment,"Up to $10B (with Microsoft's up to $5B)",2025-11,ANTH
+NVIDIA,xAI,investment,"Strategic investor in $20B Series E",2026-01,FXAI
+NVIDIA,Intel,investment,"$5B common stock at $23.28/share (~4%)",2025-09,INTEL
+NVIDIA,Nokia,investment,"~$1B stake (<3%)",2025-10,NOKIA
+NVIDIA,Synopsys,investment,"$2B stock at $414.79/share",2025-12,SYN
+NVIDIA,CoreWeave,investment,"Long-time stockholder; extra $2B in early 2026",2026,KUCOIN
+NVIDIA,Nebius,investment,"$2B",2026-03,NEB
+NVIDIA,Nscale,investment,"Investor and core supplier; pre-IPO convertible",2026-09,VAVC
+NVIDIA,Marvell,investment,"Equity investment",2026,DEC
+NVIDIA,Lumentum,investment,"Optics supplier stake",2026,DEC
+NVIDIA,Coherent,investment,"Optics supplier stake",2026,DEC
+NVIDIA,IREN,investment,"Right to invest up to $2.1B",2026-05,DEC
+NVIDIA,Corning,investment,"Right to invest up to $3.2B (fiber optics)",2026-05,DEC
+NVIDIA,Cursor,investment,"$2.3B round at $29.3B valuation",2025,HYPER
+NVIDIA,Mistral AI,investment,"Series C; three rounds total",2025,HYPER
+NVIDIA,Reflection AI,investment,"$2B round at $8B valuation",2025,HYPER
+NVIDIA,Thinking Machines Lab,investment,"$2B seed at $12B valuation",2025,HYPER
+NVIDIA,Cohere,investment,"Model-builder stake",2025,FORBES
+NVIDIA,Figure AI,investment,"Humanoid robotics stake",2025,FORBES
+NVIDIA,Wayve,investment,"Series D",2026,KR36
+NVIDIA,Baseten,investment,"$150M of a $300M round",2026,KR36
+NVIDIA,Together AI,investment,"Series C ($800M round)",2026-07,VAVC
+NVIDIA,Lambda,investment,"Series D ($480M round)",2025-02,NVENT
+NVIDIA,Crusoe,investment,"Series F",2026-09,VAVC
+NVIDIA,Fireworks AI,investment,"Series D",2026-07,VAVC
+NVIDIA,Perplexity,investment,"NVentures stake",2024,NVENT
+NVIDIA,Runway,investment,"Series C",2023,NVENT
+NVIDIA,Hippocratic AI,investment,"NVentures stake",2025,NVENT
+NVIDIA,Quantinuum,investment,"$600M round",2025-09,NVENT
+NVIDIA,PsiQuantum,investment,"NVentures stake",2025,KUCOIN
+NVIDIA,Alice & Bob,investment,"Series B",2026-05,NEB
+NVIDIA,TerraPower,investment,"$650M round (nuclear power for AI)",2025,NVENT
+NVIDIA,Synthesia,investment,"NVentures unicorn",,KUCOIN
+NVIDIA,Abridge,investment,"NVentures unicorn",,KUCOIN
+NVIDIA,OpenRouter,investment,"$113M Series B",2026-05,BAIDU
+NVIDIA,Legora,investment,"Series E at $5.6B valuation",2026-04,NEB
+NVIDIA,Aidoc,investment,"$150M round",2026-04,NEB
+NVIDIA,Generalist AI,investment,"$400M round",2026-06,NEB
+NVIDIA,Oxa,investment,"$103M round",2026-03,BAIDU
+NVIDIA,Prime Intellect,investment,"Series A",2026-07,VAVC
+NVIDIA,Starcloud,investment,"Extension round",2026-08,VAVC
+NVIDIA,Firmus,investment,"Growth round",2026-08,VAVC
+NVIDIA,Tensormesh,investment,"Seed extension alongside AMD and CoreWeave",2026-05,KUCOIN
+NVIDIA,Doctolib,investment,"Part of ~$2B France plan",2026-10,FR
+NVIDIA,Genesis AI,investment,"Part of ~$2B France plan",2026-10,FR
+NVIDIA,Pigment,investment,"Part of ~$2B France plan",2026-10,FR
+NVIDIA,Arm,investment,"Stake cut or sold in Q4 2025",2025-12,LDS
+NVIDIA,Applied Digital,investment,"Stake cut or sold in Q4 2025",2025-12,LDS
+NVIDIA,Recursion,investment,"Stake cut or sold in Q4 2025",2025-12,LDS
+NVIDIA,WeRide,investment,"Stake cut or sold in Q4 2025",2025-12,LDS
+NVIDIA,Mellanox,acquisition,"~$7B; basis of NVIDIA networking",2020-04,MELL
+NVIDIA,Cumulus Networks,acquisition,"Open networking software",2020-05,MELL
+NVIDIA,Run:ai,acquisition,"$700M; GPU orchestration",2024-12,FOOL
+NVIDIA,Deci,acquisition,"~$300M; model optimization",2024-04,FOOL
+NVIDIA,OctoAI,acquisition,"~$250M; inference serving",2024-09,FOOL
+NVIDIA,Brev.dev,acquisition,"GPU developer platform",2024-07,FOOL
+NVIDIA,Shoreline,acquisition,"Incident automation",2024,FOOL
+NVIDIA,VinBrain,acquisition,"Medical AI (Vietnam)",2024-12,FOOL
+NVIDIA,Gretel,acquisition,"Synthetic data; nine-figure deal",2025-03,PRIV
+NVIDIA,Lepton AI,acquisition,"GPU cloud software",2025-04,SEED
+NVIDIA,CentML,acquisition,"Inference optimization",2025-06,PRIV
+NVIDIA,Solver,acquisition,"AI coding agents",2025-09,SOLVER
+NVIDIA,Enfabrica,acquisition,">$900M acquihire and license",2025-09,ENF
+NVIDIA,SchedMD,acquisition,"Slurm scheduler; stays open source",2025-12,SCHED
+NVIDIA,Groq,acquisition,"~$20B license and acquihire; GroqCloud stays independent",2025-12,GROQ
+NVIDIA,Kumo AI,acquisition,"Reported ~$400M; relational foundation models",2026-06,PRIV
+NVIDIA,Hugging Face,acquisition,"$12.93B; expected to close H1 2027",2026-09,SHF
+TSMC,NVIDIA,supplier,"Wafer fabrication and CoWoS packaging",,HBM
+SK Hynix,NVIDIA,supplier,"HBM memory",,HBM
+Samsung,NVIDIA,supplier,"HBM memory",,HBM
+Micron,NVIDIA,supplier,"HBM memory",,HBM
+Amkor,NVIDIA,supplier,"Advanced packaging capacity",,HBM
+ASE,NVIDIA,supplier,"Packaging",,GB200
+Ibiden,NVIDIA,supplier,"Substrates; multibillion capacity reservation",2026-10,BERLIN2
+Unimicron,NVIDIA,supplier,"Substrates (2.5x capacity plan)",2026-10,BERLIN2
+Samsung Electro-Mechanics,NVIDIA,supplier,"Substrates (2.5x capacity plan)",2026-10,BERLIN2
+Murata,NVIDIA,supplier,"Passive components",,GB200
+Amphenol,NVIDIA,supplier,"Connectors and cables",,GB200
+Arm,NVIDIA,supplier,"CPU IP in Grace (72 Neoverse V2 cores); $40B takeover abandoned 2022",,DECMETA
+Intel,NVIDIA,supplier,"Custom x86 data-center CPUs for NVIDIA platforms",2025-09,INTEL
+Foxconn,NVIDIA,supplier,"Largest GB200 rack builder; module assembly",,ODM
+Quanta,NVIDIA,supplier,"GB200/GB300 rack ODM",,ODM
+Wistron,NVIDIA,supplier,"Boards and accelerator cards",,ODM
+Wiwynn,NVIDIA,supplier,"Rack ODM",,ODM
+Inventec,NVIDIA,supplier,"Server boards",,ODM
+Gigabyte,NVIDIA,supplier,"ODM partner",,ODM
+CoreWeave,NVIDIA,supplier,"NVIDIA backstops unsold capacity: $6.3B order through 2032",2025-09,CW
+Lambda,NVIDIA,supplier,"NVIDIA leases back 18000 GPUs: $1.5B over 5 years",2025-09,CW
+NVIDIA,Dell,partner,"#1 branded server OEM (16.5% share)",2026,OEM
+NVIDIA,Supermicro,partner,"Server OEM",2026,OEM
+NVIDIA,HPE,partner,"Private Cloud AI expansion at GTC 2026",2026-03,HPE
+NVIDIA,Lenovo,partner,"Server OEM",2026,OEM
+NVIDIA,Cisco,partner,"Networking; 6G commitment",2026-03,TEL
+NVIDIA,Vertiv,partner,"DSX POD power and cooling",2026-10,BERLIN2
+NVIDIA,Schneider Electric,partner,"DSX POD partner",2026-10,BERLIN2
+NVIDIA,Eaton,partner,"DSX POD partner",2026-10,BERLIN2
+NVIDIA,Meta,customer,"Multiyear deal: millions of Blackwell and Rubin GPUs, Grace/Vera CPUs, Spectrum-X",2026-02,META
+NVIDIA,Microsoft,customer,"Azure GB300 NVL72 clusters",2025-10,AZURE
+NVIDIA,Amazon,customer,"AWS GB200 UltraServers",,GB200
+NVIDIA,Google,customer,"Google Cloud GPUs; just over half its ML compute goes to TPUs",2026-04,TPU
+NVIDIA,Oracle,customer,"OCI GB200 racks at Stargate Abilene",2025-06,REG
+NVIDIA,OpenAI,customer,"LOI for at least 10 GW of NVIDIA systems; first GW on Vera Rubin",2025-09,OAI10
+NVIDIA,Anthropic,customer,"Up to 1 GW of Grace Blackwell and Vera Rubin",2025-11,ANTH
+NVIDIA,xAI,customer,"Colossus (Memphis): 100k+ GPUs, expanding with GB200",,XAI
+NVIDIA,CoreWeave,customer,"NVIDIA Cloud Partner",,CW
+NVIDIA,Lambda,customer,"NVIDIA Cloud Partner",,CW
+NVIDIA,Crusoe,customer,"NVIDIA Cloud Partner hosting Meta capacity",2026-02,METAP
+NVIDIA,Nebius,customer,"GPU cloud capacity",2026,NEB
+NVIDIA,Nscale,customer,"GB300 NVL72 cloud",2026-10,BERLIN2
+NVIDIA,Humain,customer,"Up to 600k GPUs over 3 years; +27k GPUs (84 MW) in Oct 2026",2026-10,HUM
+NVIDIA,G42,customer,"Approved for up to 35k Blackwell-equivalents",2025-11,HUM2
+NVIDIA,Samsung,customer,"Part of Korea's 260k-GPU program",2025-10,KOR
+NVIDIA,SK Group,customer,"Part of Korea's 260k-GPU program",2025-10,KOR
+NVIDIA,Hyundai,customer,"Part of Korea's 260k-GPU program",2025-10,KOR
+NVIDIA,NAVER Cloud,customer,"Part of Korea's 260k-GPU program",2025-10,KOR
+NVIDIA,Korea MSIT,customer,"50k GPUs for sovereign models",2025-10,KOR2
+NVIDIA,Reliance,customer,"GH200 and DGX Cloud AI infrastructure",2023-09,INDIA
+NVIDIA,Tata Group,customer,"GH200 AI cloud",2023-09,INDIA
+NVIDIA,Deutsche Telekom,customer,"Industrial AI Cloud",2026-10,BERLIN
+NVIDIA,Mistral AI,customer,"Mistral Compute: 18k Grace Blackwell superchips",2025,FRMIS
+NVIDIA,Eli Lilly,customer,"Pharma's largest AI factory (DGX SuperPOD B300)",2025-10,LILLY
+NVIDIA,Novo Nordisk,customer,"DGX SuperPOD supercomputer in Denmark",2024-03,NOVO
+NVIDIA,Alibaba,customer,"Cleared by Beijing to prepare H200 orders",2026,CHINA
+NVIDIA,Uber,partner,"Robotaxis: up to 100k L4 vehicles from 2027; 28 cities by 2028",2026-03,AUTO2
+NVIDIA,Mercedes-Benz,partner,"DRIVE Hyperion; S-Class robotaxi",2026-01,BGOV
+NVIDIA,Stellantis,partner,"At least 5000 L4 vehicles for Uber from 2028",2025-10,AUTO4
+NVIDIA,Lucid,partner,"L4 autonomy",2025-10,AUTO1
+NVIDIA,Toyota,partner,"DRIVE Hyperion",2026-03,AUTO2
+NVIDIA,GM,partner,"DRIVE Hyperion",2026-03,AUTO2
+NVIDIA,BYD,partner,"DRIVE Hyperion",2026-03,AUTO2
+NVIDIA,Hyundai,partner,"DRIVE Hyperion (expanded)",2026-03,AUTO3
+NVIDIA,Kia,partner,"DRIVE Hyperion (expanded)",2026-03,AUTO3
+NVIDIA,Nissan,partner,"DRIVE Hyperion",2026-03,AUTO2
+NVIDIA,Geely,partner,"DRIVE Hyperion",2026-03,AUTO2
+NVIDIA,Isuzu,partner,"DRIVE Hyperion",2026-03,AUTO3
+NVIDIA,Aurora,partner,"Long-haul trucking on Hyperion 10",2025-10,AUTO1
+NVIDIA,Volvo Autonomous Solutions,partner,"Long-haul trucking on Hyperion 10",2025-10,AUTO1
+NVIDIA,Waabi,partner,"Long-haul trucking on Hyperion 10",2025-10,AUTO1
+NVIDIA,Audi,partner,"German industrial-AI initiative",2026-10,GERM
+NVIDIA,1X,partner,"GR00T N1 on NEO Gamma",2025-03,ROBO2
+NVIDIA,Agility Robotics,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,Apptronik,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,Boston Dynamics,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,Figure AI,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,Fourier,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,Sanctuary AI,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,Unitree,partner,"First OEM for NVIDIA's GR00T humanoid kit (H2)",2026,UNITREE
+NVIDIA,XPENG,partner,"GR00T humanoid platform",2024-03,ROBO
+NVIDIA,NEURA Robotics,partner,"GR00T N1 early access",2025-03,ROBO2
+NVIDIA,Mentee Robotics,partner,"GR00T N1 early access",2025-03,ROBO2
+NVIDIA,Google DeepMind,partner,"Robotics physics engine collaboration",2025-03,ROBO2
+NVIDIA,Disney Research,partner,"Robotics physics engine collaboration",2025-03,ROBO2
+NVIDIA,Foxconn,partner,"Humanoid robots in Kaohsiung",2025,FOXROBO
+NVIDIA,Nokia,partner,"AI-RAN on Aerial RAN Computer",2025-10,NOKIA
+NVIDIA,T-Mobile,partner,"World's first AI-RAN call on a commercial network",2026-10,BERLIN3
+NVIDIA,SoftBank,partner,"AITRAS AI-RAN",2026-03,TEL2
+NVIDIA,Ericsson,partner,"AI-native 6G commitment",2026-03,TEL
+NVIDIA,BT,partner,"AI-RAN pilots",2026-10,BERLIN3
+NVIDIA,SK Telecom,partner,"AI-native 6G commitment",2026-03,TEL
+NVIDIA,Orange,partner,"AI-RAN tests; voice intelligence",2026-10,BERLIN
+NVIDIA,Elisa,partner,"Europe's first AI-RAN field trial",2026-10,BERLIN3
+NVIDIA,Indosat,partner,"AI-RAN",2026-03,TEL2
+NVIDIA,NTT DOCOMO,partner,"AI-RAN on Aerial",2026-03,TEL2
+NVIDIA,Vodafone,partner,"AI-RAN on Aerial",2026-03,TEL2
+NVIDIA,Booz Allen,partner,"AI-native 6G commitment",2026-03,TEL
+NVIDIA,Siemens,partner,"Industrial AI and digital twins",2026-10,GERM
+NVIDIA,Siemens Healthineers,partner,"Adaptive radiotherapy",2026-10,BERLIN
+NVIDIA,SAP,partner,"Safe agents in agent platforms",2026-10,BERLIN
+NVIDIA,ServiceNow,partner,"Safe agents in agent platforms",2026-10,BERLIN
+NVIDIA,CrowdStrike,partner,"Agent security integration",2026-10,BERLIN
+NVIDIA,Palo Alto Networks,partner,"Agent security integration",2026-10,BERLIN
+NVIDIA,Black Forest Labs,partner,"German industrial-AI initiative",2026-10,GERM
+NVIDIA,Thermo Fisher,partner,"Autonomous lab infrastructure",2026-01,JPM
+NVIDIA,Johnson & Johnson,partner,"MedTech surgical robotics",2025,EMARK
+NVIDIA,Synopsys,partner,"GPU-accelerated EDA and digital twins",2025-12,SYN
+NVIDIA,Intel,partner,"Intel x86 RTX SoCs for PCs",2025-09,INTEL
+NVIDIA,Qualcomm,partner,"NVLink Fusion",2025-05,NVL
+NVIDIA,Fujitsu,partner,"NVLink Fusion",2025-05,NVL
+NVIDIA,MediaTek,partner,"NVLink Fusion",2025-05,NVL
+NVIDIA,Marvell,partner,"NVLink Fusion",2025-05,NVL
+NVIDIA,German government,partner,"Strategic AI cooperation at Invest in Germany Summit",2026-10,CNBCDE
+NVIDIA,UK government,partner,"$250M of compute for AI-agent safety research",2026-10,EUINV
+NVIDIA,AMD,competitor,"GPUs; ~14 GW of AMD commitments",2026,MARV
+NVIDIA,Google,competitor,"TPU v7/v8",2026,TPU
+NVIDIA,Amazon,competitor,"Trainium 3",2026,ASIC
+NVIDIA,Microsoft,competitor,"Maia 200",2026,ASIC
+NVIDIA,Meta,competitor,"MTIA",2026,ASIC
+NVIDIA,Broadcom,competitor,"Custom AI ASICs",2026,TPU
+NVIDIA,Intel,competitor,"Server CPUs vs Grace/Vera",2026-02,DECMETA
+NVIDIA,Qualcomm,competitor,"AI200/AI250 inference chips",2025-10,VERD
+NVIDIA,Cerebras,competitor,"CS-4 inference systems",2026,MARV
+NVIDIA,Huawei,competitor,"Chinese AI chips backed by Beijing",2026,CHINA
+NVIDIA,Cambricon,competitor,"Chinese AI chips backed by Beijing",2026,CHINA
+NVIDIA,MetaX,competitor,"Chinese AI chips",2026,CHINA
+NVIDIA,Moore Threads,competitor,"Chinese AI chips",2026,CHINA
+US Commerce Dept (BIS),NVIDIA,regulator,"Export controls; small H200 licenses for China with 25% duty",2026,CHINA
+China SAMR,NVIDIA,regulator,"Preliminary finding that NVIDIA breached Mellanox approval terms",2025-09,S10Q
+US Commerce Dept (BIS),Humain,regulator,"Approved up to 35k Blackwell chips",2025-11,HUM2
+US Commerce Dept (BIS),G42,regulator,"Approved up to 35k Blackwell chips",2025-11,HUM2
+China SAMR,Mellanox,regulator,"Conditional approval of the 2020 deal",2025-09,S10Q
+Jensen Huang,NVIDIA,leadership,"Co-founder, President and CEO since 1993",,LEAD
+Chris Malachowsky,NVIDIA,leadership,"Co-founder and NVIDIA Fellow",,KOMO
+Colette Kress,NVIDIA,leadership,"EVP and CFO since 2013",,LEAD
+Jay Puri,NVIDIA,leadership,"EVP Worldwide Field Operations; retiring",,LEAD2
+Nicholas Parker,NVIDIA,leadership,"Succeeds Puri as EVP Field Operations (Aug 2026)",2026-08,LEAD2
+Debora Shoquist,NVIDIA,leadership,"EVP Operations (supply chain)",,LEAD
+Tim Teter,NVIDIA,leadership,"EVP and General Counsel",,LEAD
+Bill Dally,NVIDIA,leadership,"Chief Scientist",,SWS
+Ian Buck,NVIDIA,leadership,"VP Hyperscale and HPC",,DECMETA
+Kimberly Powell,NVIDIA,leadership,"VP Healthcare",,LILLY
+Ali Kani,NVIDIA,leadership,"VP Automotive",,AXIOS
+Google,Anthropic,investment,"$40B",2026-04,TPU
+Amazon,Anthropic,investment,"$8B; AWS primary training partner",2025,CRNA
+Microsoft,Anthropic,investment,"Up to $5B",2025-11,ANTH
+AMD,Anthropic,investment,"Up to $5B equity tied to MI450 milestones",2026,AMDANTH
+SoftBank,OpenAI,investment,"$30B; lead Stargate financier",2026-02,STORY
+Amazon,OpenAI,investment,"$50B commitment",2026-02,STORY
+Cisco,xAI,investment,"Series E co-investor",2026-01,FXAI
+AMD,Tensormesh,investment,"Seed extension",2026-05,KUCOIN
+CoreWeave,Tensormesh,investment,"Seed extension",2026-05,KUCOIN
+Saudi PIF,Humain,investment,"Owner",2025-05,HUM
+Anthropic,Microsoft,ecosystem,"$30B Azure compute commitment",2025-11,ANTH
+Anthropic,Google,ecosystem,"Anchor customer for TPU 8t and 8i",2026-04,TPU
+Anthropic,AMD,ecosystem,"Up to 2 GW of MI450",2026,AMDANTH
+OpenAI,AMD,ecosystem,"6 GW of AMD GPUs; warrant for 160M AMD shares",2025-10,AMDOAI
+OpenAI,Broadcom,ecosystem,"Custom chip deal",2025-10,VERD
+OpenAI,Cerebras,ecosystem,"$20B+ inference compute commitment",2026-04,TPU
+OpenAI,Oracle,ecosystem,"~$300B over 5 years; 4.5 GW for Stargate",2025-07,REG
+OpenAI,CoreWeave,ecosystem,"$11.9B + up to $4B contracts",2025,CWCO
+OpenAI,Microsoft,ecosystem,"Azure GB300 cluster for OpenAI workloads",2025-10,AZURE
+OpenAI,G42,ecosystem,"Stargate UAE (1 GW, with Oracle)",2026,HUM
+Oracle,G42,ecosystem,"Stargate UAE",2026,HUM
+Meta,AMD,ecosystem,"6 GW custom MI450 over 5 years",2026-02,AMDMETA
+Meta,Google,ecosystem,"TPU supply talks",2025-11,VERD
+Meta,CoreWeave,ecosystem,"NVIDIA Cloud Partner capacity",2026-02,METAP
+Meta,Crusoe,ecosystem,"NVIDIA Cloud Partner capacity",2026-02,METAP
+Oracle,AMD,ecosystem,"50k MI450 GPUs",2026,AMDANTH
+Microsoft,AMD,ecosystem,"Helios racks on Azure",2026,AMDANTH
+CoreWeave,Microsoft,ecosystem,"One of CoreWeave's two largest customers",2025-09,CWCO
+Google,Broadcom,ecosystem,"TPU design partner (training)",2026-04,TPU
+Google,MediaTek,ecosystem,"TPU design partner (inference)",2026-04,TPU
+Google,Marvell,ecosystem,"Custom silicon deal with share warrant",2026-07,MARV
+TSMC,Google,ecosystem,"TPU foundry",,VERD
+TSMC,Microsoft,ecosystem,"Maia 200 on 3nm",2026,ASIC
+Foxconn,Google,ecosystem,"TPU servers",2025-12,VERD
+Google DeepMind,Google,ecosystem,"Alphabet AI lab",,ROBO2
+Dell,CoreWeave,ecosystem,"First to ship GB200, GB300 and Vera Rubin racks",2026,OEM
+Dell,xAI,ecosystem,"Built Colossus racks",,XAI
+Supermicro,xAI,ecosystem,"Built Colossus racks",,XAI
+Dell,Nokia,ecosystem,"PowerEdge servers for AI-RAN",2025-10,NOKIA
+Stellantis,Uber,ecosystem,"L4 robotaxis from 2028",2025-10,AUTO4
+Foxconn,Stellantis,ecosystem,"Co-develop L4 vehicles",2025-10,AUTO4
+Mercedes-Benz,Uber,ecosystem,"S-Class robotaxi venture",2026-01,BGOV
+Lucid,Uber,ecosystem,"Uber-exclusive robotaxi fleet",2025-10,AXIOS
+Nuro,Uber,ecosystem,"Self-driving system for Lucid fleet",2025-10,AXIOS
+Nokia,T-Mobile,ecosystem,"AI-RAN call on live network",2026-10,BERLIN3
+Nokia,SoftBank,ecosystem,"AI-RAN demonstration",2026-03,TEL2
+Nokia,Indosat,ecosystem,"First AI-RAN 5G call in SE Asia",2026-03,TEL2
+Nokia,BT,ecosystem,"anyRAN trials",2026-10,BERLIN3
+Nokia,Deutsche Telekom,ecosystem,"anyRAN trials",2026-10,BERLIN3
+Nokia,Elisa,ecosystem,"anyRAN trials",2026-10,BERLIN3
+Nokia,Orange,ecosystem,"anyRAN tests",2026-10,BERLIN
+Deutsche Telekom,Agile Robots,ecosystem,"Industrial AI Cloud customer",2026-10,BERLIN

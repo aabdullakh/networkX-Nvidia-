@@ -1,0 +1,87 @@
+key,title,url
+S10K,NVIDIA Form 10-K FY2026 (SEC),https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm
+S10Q,NVIDIA Form 10-Q Jul 2026 (SEC),https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm
+SHF,NVIDIA 8-K: Hugging Face agreement (SEC),https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm
+HF,NVIDIA blog: NVIDIA to Acquire Hugging Face,https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
+DEC,The Decoder: Nvidia pumps $40B+ into AI partners,https://the-decoder.com/nvidia-pumps-over-40-billion-dollars-into-ai-partners-so-far-in-2026/
+FXAI,Fintool: xAI $20B Series E with NVIDIA and Cisco,https://fintool.com/news/xai-20-billion-series-e-nvidia-cisco
+STORY,Storyboard18: Huang on OpenAI and Anthropic stakes,https://www.storyboard18.com/brand-makers/nvidia-ceo-jensen-huang-hints-no-further-investments-in-openai-anthropic-heres-why-91280.htm
+HYPER,HyperAI: Nvidia's startup investments,https://hyper.ai/en/stories/a07fcb1cc15471992728a0088116b3c9
+KR36,36Kr: NVIDIA investment patterns,https://eu.36kr.com/en/p/3716969592927621
+FORBES,Forbes: Nvidia's $53B investment spree,https://www.forbes.com/sites/jonmarkman/2026/02/10/nvidias-53-billion-investment-spree-on-ai-startups/
+NEB,AI Funding Tracker: Nvidia top startup investments 2026,https://aifundingtracker.com/nvidia-startup-investments/
+NVENT,FeedTheAI: NVentures portfolio tracker,https://www.feedtheai.com/nventures-portfolio-ai-startups-backed-by-nvidia/
+KUCOIN,KuCoin News: NVentures two-person team,https://www.kucoin.com/news/flash/nvidia-s-nventures-2-person-team-backs-20-startups-to-unicorn-status
+VAVC,ValueAddVC: NVentures recent rounds,https://valueaddvc.com/vc/nvidia-ventures
+BAIDU,Baidu Baike: NVentures,https://baike.baidu.com/en/item/NVentures/2471331
+LDS,LetsDataScience: Nvidia invests billions in Intel and Nokia,https://letsdatascience.com/news/nvidia-invests-billions-in-intel-and-nokia-c5297e8d
+SYN,Futuriom: NVIDIA invests $2B in Synopsys,https://www.futuriom.com/articles/news/nvidia-invests-2b-and-partners-with-synopsys/2025/12
+INTEL,The Decoder: Nvidia and Intel x86 partnership,https://the-decoder.com/nvidia-and-intel-strike-partnership-on-x86-chips-with-5-billion-investment/
+NOKIA,IEEE ComSoc: Nvidia $1B stake in Nokia,https://techblog.comsoc.org/category/ai/page/6/
+MELL,PrivSource: NVIDIA completes Mellanox acquisition,https://www.privsource.com/acquisitions/deal/WNSnbq
+GROQ,AIN: NVIDIA acquiring Groq assets,https://en.ain.ua/2025/12/26/nvidia-is-acquiring-the-assets-of-startup-groq/
+FOOL,Motley Fool: What does Nvidia own?,https://www.fool.com/investing/how-to-invest/stocks/what-does-nvidia-own/
+PRIV,PrivSource: NVIDIA acquires OctoAI (related deals),https://www.privsource.com/acquisitions/deal/nvidia-acquires-octoai-ane_N7SBEw
+SEED,Seedtable: NVIDIA acquisitions,https://seedtable.com/companies/nvidia/acquisitions
+SOLVER,Tech Startups: Nvidia acquires Solver,https://techstartups.com/2025/09/03/nvidia-acquires-ai-coding-startup-solver-amid-growing-ai-investment-spree/
+ENF,Communications Today: Nvidia spent $900M+ on Enfabrica,https://www.communicationstoday.co.in/nvidia-spent-over-900m-to-hire-enfabrica-ceo-license-technology/
+SCHED,Evertiq: NVIDIA acquires SchedMD,https://evertiq.com/design/2025-12-17-nvidia-acquires-slurm-developer-schedmd
+META,Evertiq: Nvidia and Meta multiyear deal,https://evertiq.com/design/2026-02-18-nvidia-and-meta-enter-multiyear-deal-covering-millions-of-gpus
+METAP,PureAI: NVIDIA expands Meta deal,https://pureai.com/Articles/2026/02/18/NVIDIA-expands-multiyear-AI-infrastructure-deal-with-Meta.aspx
+DECMETA,The Decoder: Nvidia lands Meta deal and pushes into CPUs,https://the-decoder.com/nvidia-lands-massive-meta-deal-and-pushes-into-cpu-market-to-fend-off-growing-competition/
+ANTH,NVIDIA blog: Microsoft NVIDIA and Anthropic partnerships,https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership
+CRNA,CRN Asia: Anthropic inks Microsoft and Nvidia deals,https://www.crnasia.com/news-network/2025/amazon-backed-anthropic-inks-microsoft
+AMDANTH,CRN Asia: AMD bought into Anthropic,https://www.crnasia.com/news/2026/components-and-peripherals/amd-bought-into-anthropic-instead-of-giving-shares-away
+AMDOAI,AMD: AMD and OpenAI 6 GW partnership,https://ir.amd.com/news-events/press-releases/detail/1260/amd-and-openai-announce-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus
+AMDMETA,The Next Platform: AMD and Meta deal,https://www.nextplatform.com/compute/2026/02/24/some-more-game-theory-this-time-on-the-amd-meta-platforms-deal/4092150
+OAI10,LetsDataScience: OpenAI secures 10 GW,https://letsdatascience.com/news/openai-secures-10gw-us-ai-compute-capacity-4e36efb7
+STAR,Reuters via Yahoo: Key stakeholders in Stargate,https://finance.yahoo.com/news/factbox-key-stakeholders-500-billion-164315893.html
+REG,The Register: OpenAI and Oracle 4.5 GW Stargate,https://www.theregister.com/2025/07/22/openai_oracle_gpus/
+AZURE,Seeking Alpha: Azure first large-scale GB300 cluster,https://seekingalpha.com/news/4503071-microsoft-azure-deploys-first-large-scale-cluster-of-nvidia-gb300-for-openai-workloads
+CW,DCD: Nvidia to purchase unsold CoreWeave capacity,https://www.datacenterdynamics.com/en/news/nvidia-to-purchase-unsold-compute-capacity-from-coreweave-for-63bn/
+CWCO,CO/AI: CoreWeave $6.3B Nvidia backstop,https://getcoai.com/news/coreweave-secures-6-3b-nvidia-deal-with-guaranteed-cloud-capacity-buyback
+TPU,Daloopa: NVIDIA customer concentration and Google TPU,https://daloopa.com/?p=14854
+VERD,Verdict: Google TPU chips threaten Nvidia,https://www.verdict.co.uk/google-tpu-chips-threaten-nvidia/
+MARV,Crypto Briefing: Customers build their own chips,https://cryptobriefing.com/nvidia-ai-data-center-competition/
+ASIC,Introl: Hyperscaler ASICs challenge NVIDIA,https://introl.com/blog/custom-silicon-inflection-2026-hyperscaler-asics-nvidia-gpu
+HBM,SemiAnalysis: Nvidia's plans (HBM and CoWoS supply),https://semianalysis.substack.com/p/nvidias-plans-to-crush-competition
+GB200,IntuitionLabs: GB200 supply chain,https://intuitionlabs.ai/articles/nvidia-gb200-supply-chain
+ODM,TechSoda: NVIDIA gives ODM partners sourcing authority,https://techsoda.substack.com/p/exclusive-nvidia-gives-odm-partners
+OEM,GPUSmith: NVIDIA AI server OEM comparison,https://gpusmith.com/articles/nvidia-ai-server-oem-comparison
+HPE,Insider Monkey: Companies that partnered with Nvidia in 2026,https://www.insidermonkey.com/blog/5-companies-that-partnered-with-nvidia-in-2026-1736166/
+XAI,Business Insider: xAI expands Memphis Colossus,https://businessinsider.nl/xai-is-expanding-its-memphis-supercomputer-to-house-at-least-1-million-gpus/
+HUM,The National: Humain expands Nvidia deal,https://www.thenationalnews.com/future/technology/2026/10/22/saudi-arabias-humain-expands-nvidia-deal-with-84mw-ai-computing-plan/
+HUM2,The Daily Star (AFP): Humain inks Nvidia deal,https://www.thedailystar.net/business/global-economy/news/saudi-ai-firm-humain-inks-nvidia-deal-4039841
+KOR,Yahoo Finance: Nvidia 260000-chip Korea rollout,https://www.aol.com/finance/nvidia-steps-south-korea-ai-060026309.html
+KOR2,Data Center Knowledge: South Korea 260000 Nvidia chips,https://www.datacenterknowledge.com/infrastructure/south-korea-to-boost-ai-infrastructure-with-260-000-nvidia-chips
+INDIA,SDxCentral: Nvidia partners with Reliance and Tata,https://www.sdxcentral.com/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/
+FRMIS,Introl: France AI sovereignty and Mistral Compute,https://introl.com/blog/france-ai-sovereignty-mistral-sovereign-cloud-2025
+AUTO1,Engadget: NVIDIA with Uber Stellantis Lucid Mercedes,https://www.engadget.com/transportation/nvidias-next-move-in-autonomous-driving-is-a-partnership-with-uber-stellantis-lucid-and-mercedes-benz-194442126.html
+AUTO2,WinBuzzer: Nvidia Uber robotaxi plan at GTC 2026,https://winbuzzer.com/2026/03/17/nvidia-gtc-2026-uber-robotaxi-physical-ai-drive-hyperion-xcxwbn/
+AUTO3,Seeking Alpha: Nvidia expands autonomous driving partners,https://seekingalpha.com/news/4565003-nvidia-expands-its-autonomous-driving-system-with-new-car-manufacturers-and-uber-gtc
+AUTO4,Electrive: Stellantis Uber and Nvidia robotaxis,https://www.electrive.com/2025/10/29/stellantis-uber-and-nvidia-announce-partnership-for-robotaxis
+BGOV,Bloomberg Law: Nvidia and Mercedes robotaxis,https://news.bgov.com/tech-and-telecom-law/nvidia-mercedes-benz-move-forward-with-planned-robotaxis
+AXIOS,Axios Future of Mobility,https://www.axios.com/newsletters/axios-future-of-mobility-75423d20-b43f-11f0-98ab-29dd625baa30.html
+ROBO,TechCrunch: Nvidia enlists humanoid makers for GR00T,https://techcrunch.com/?p=2679990
+ROBO2,NVIDIA: Isaac GR00T N1 announcement,https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Isaac-GR00T-N1--the-Worlds-First-Open-Humanoid-Robot-Foundation-Model--and-Simulation-Frameworks-to-Speed-Robot-Development/default.aspx
+UNITREE,AI Weekly: GR00T humanoid for academic labs,https://aiweekly.co/alerts/nvidia-launches-gr00t-humanoid-robot-for-academic-labs
+FOXROBO,AIM: Foxconn and NVIDIA humanoid robots,https://analyticsindiamag.com/ai-news-updates/foxconn-nvidia-partner-to-develop-humanoid-robot-service/
+TEL,AI News: AI-native networks at MWC 2026,https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/
+TEL2,TelecomTV: Nokia AI-RAN momentum at MWC26,https://www.telecomtv.com/content/nokia/nokia-accelerates-ai-ran-momentum-with-new-partnerships-driving-path-to-ai-native-6g-mwc26-54961/
+BERLIN,Counterpoint: NVIDIA GTC Berlin 2026,https://counterpointresearch.com/en/insights/nvidia-gtc-berlin
+BERLIN2,Mervin Praison: What NVIDIA announced at GTC Berlin,https://mer.vin/news/what-nvidia-announced-at-gtc-berlin/
+BERLIN3,StorageNewsletter: GTC Berlin telecom announcements,https://www.storagenewsletter.com/2026/10/21/nvidia-gtc-berlin-2026-nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms/
+EUINV,StorageNewsletter: Nvidia expands European investment,https://www.storagenewsletter.com/2026/10/21/nvidia-gtc-berlin-2026-nvidia-lands-in-europe-to-expand-its-investment-footprint/
+GERM,ROIC: Germany prepares AI partnership with Nvidia,https://www.roic.ai/news/germany-prepares-major-ai-partnership-with-nvidia-backed-by-hundreds-of-millions-in-federal-funding-10-15-2026
+CNBCDE,CNBC: German chancellor urges businesses to embrace AI,https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html
+FR,BigGo Finance: GTC Berlin preview and French startups,https://finance.biggo.com/news/f00c582a-7c2b-485d-967c-15f60824f446
+CHINA,Deccan Chronicle (Bloomberg): H200 license for China,https://deccanchronicle.com/technology/nvidia-gets-us-license-for-small-amount-of-h200-exports-to-china-1940036
+NVL,Techovedas: NVLink Fusion partners,https://techovedas.com/nvlink-fusion-nvidia-unveils-supercharging-ai-with-qualcomm-fujitsu-and-mediatek-collaboration/
+LILLY,Pharmaceutical Technology: Lilly and NVIDIA supercomputer,https://www.pharmaceutical-technology.com/news/eli-lilly-and-nvidia-to-build-pharmas-most-powerful-supercomputer/
+JPM,Yahoo Finance: JPM26 Lilly and NVIDIA,https://finance.yahoo.com/news/jpm26-eli-lilly-nvidia-deepen-175543307.html
+EMARK,eMarketer: Lilly taps NVIDIA,https://www.emarketer.com/content/eli-lilly-taps-nvidia-fast-track-drug-r-d-with-ai-supercomputing
+NOVO,MarketBeat: NVIDIA tech in Novo Nordisk supercomputer,https://www.marketbeat.com/articles/nvidias-ai-tech-part-of-novo-nordisks-new-supercomputer/
+LEAD,NVIDIA 10-K: Executive officers,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm
+LEAD2,Creately: NVIDIA org chart,https://creately.com/org-chart/fortune-500/nvidia/
+KOMO,Komo: Nvidia leadership,https://komo.ai/directory/nvidia-leadership
+SWS,Simply Wall St: NVIDIA management,https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/management

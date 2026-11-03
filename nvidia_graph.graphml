@@ -1,0 +1,2210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="src" attr.type="string"/>
+<key id="d4" for="edge" attr.name="date" attr.type="string"/>
+<key id="d3" for="edge" attr.name="detail" attr.type="string"/>
+<key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="country" attr.type="string"/>
+<key id="d0" for="node" attr.name="category" attr.type="string"/>
+<graph edgedefault="directed"><node id="NVIDIA">
+  <data key="d0">NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="OpenAI">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Anthropic">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="xAI">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Mistral AI">
+  <data key="d0">AI lab</data>
+  <data key="d1">FR</data>
+</node>
+<node id="Cohere">
+  <data key="d0">AI lab</data>
+  <data key="d1">CA</data>
+</node>
+<node id="Reflection AI">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Thinking Machines Lab">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Black Forest Labs">
+  <data key="d0">AI lab</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Perplexity">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Runway">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Synthesia">
+  <data key="d0">AI lab</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Cursor">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Prime Intellect">
+  <data key="d0">AI lab</data>
+  <data key="d1">US</data>
+</node>
+<node id="Google DeepMind">
+  <data key="d0">AI lab</data>
+  <data key="d1">UK</data>
+</node>
+<node id="CoreWeave">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Nebius">
+  <data key="d0">AI cloud</data>
+  <data key="d1">NL</data>
+</node>
+<node id="Nscale">
+  <data key="d0">AI cloud</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Lambda">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Crusoe">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Together AI">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Fireworks AI">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Baseten">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="IREN">
+  <data key="d0">AI cloud</data>
+  <data key="d1">AU</data>
+</node>
+<node id="Firmus">
+  <data key="d0">AI cloud</data>
+  <data key="d1">AU</data>
+</node>
+<node id="Starcloud">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="OpenRouter">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Tensormesh">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Applied Digital">
+  <data key="d0">AI cloud</data>
+  <data key="d1">US</data>
+</node>
+<node id="Microsoft">
+  <data key="d0">Big tech</data>
+  <data key="d1">US</data>
+</node>
+<node id="Amazon">
+  <data key="d0">Big tech</data>
+  <data key="d1">US</data>
+</node>
+<node id="Google">
+  <data key="d0">Big tech</data>
+  <data key="d1">US</data>
+</node>
+<node id="Meta">
+  <data key="d0">Big tech</data>
+  <data key="d1">US</data>
+</node>
+<node id="Oracle">
+  <data key="d0">Big tech</data>
+  <data key="d1">US</data>
+</node>
+<node id="Alibaba">
+  <data key="d0">Big tech</data>
+  <data key="d1">CN</data>
+</node>
+<node id="AMD">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="Intel">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="Broadcom">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="Marvell">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="Qualcomm">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="MediaTek">
+  <data key="d0">Chips</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Arm">
+  <data key="d0">Chips</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Cerebras">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="Huawei">
+  <data key="d0">Chips</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Cambricon">
+  <data key="d0">Chips</data>
+  <data key="d1">CN</data>
+</node>
+<node id="MetaX">
+  <data key="d0">Chips</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Moore Threads">
+  <data key="d0">Chips</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Fujitsu">
+  <data key="d0">Chips</data>
+  <data key="d1">JP</data>
+</node>
+<node id="Synopsys">
+  <data key="d0">Chips</data>
+  <data key="d1">US</data>
+</node>
+<node id="TSMC">
+  <data key="d0">Supply chain</data>
+  <data key="d1">TW</data>
+</node>
+<node id="SK Hynix">
+  <data key="d0">Supply chain</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Samsung">
+  <data key="d0">Supply chain</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Micron">
+  <data key="d0">Supply chain</data>
+  <data key="d1">US</data>
+</node>
+<node id="Amkor">
+  <data key="d0">Supply chain</data>
+  <data key="d1">US</data>
+</node>
+<node id="ASE">
+  <data key="d0">Supply chain</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Ibiden">
+  <data key="d0">Supply chain</data>
+  <data key="d1">JP</data>
+</node>
+<node id="Unimicron">
+  <data key="d0">Supply chain</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Samsung Electro-Mechanics">
+  <data key="d0">Supply chain</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Murata">
+  <data key="d0">Supply chain</data>
+  <data key="d1">JP</data>
+</node>
+<node id="Amphenol">
+  <data key="d0">Supply chain</data>
+  <data key="d1">US</data>
+</node>
+<node id="Corning">
+  <data key="d0">Supply chain</data>
+  <data key="d1">US</data>
+</node>
+<node id="Lumentum">
+  <data key="d0">Supply chain</data>
+  <data key="d1">US</data>
+</node>
+<node id="Coherent">
+  <data key="d0">Supply chain</data>
+  <data key="d1">US</data>
+</node>
+<node id="Foxconn">
+  <data key="d0">Servers</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Quanta">
+  <data key="d0">Servers</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Wistron">
+  <data key="d0">Servers</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Wiwynn">
+  <data key="d0">Servers</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Inventec">
+  <data key="d0">Servers</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Gigabyte">
+  <data key="d0">Servers</data>
+  <data key="d1">TW</data>
+</node>
+<node id="Dell">
+  <data key="d0">Servers</data>
+  <data key="d1">US</data>
+</node>
+<node id="Supermicro">
+  <data key="d0">Servers</data>
+  <data key="d1">US</data>
+</node>
+<node id="HPE">
+  <data key="d0">Servers</data>
+  <data key="d1">US</data>
+</node>
+<node id="Lenovo">
+  <data key="d0">Servers</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Cisco">
+  <data key="d0">Servers</data>
+  <data key="d1">US</data>
+</node>
+<node id="Vertiv">
+  <data key="d0">Power &amp; cooling</data>
+  <data key="d1">US</data>
+</node>
+<node id="Schneider Electric">
+  <data key="d0">Power &amp; cooling</data>
+  <data key="d1">FR</data>
+</node>
+<node id="Eaton">
+  <data key="d0">Power &amp; cooling</data>
+  <data key="d1">IE</data>
+</node>
+<node id="TerraPower">
+  <data key="d0">Power &amp; cooling</data>
+  <data key="d1">US</data>
+</node>
+<node id="Uber">
+  <data key="d0">Mobility</data>
+  <data key="d1">US</data>
+</node>
+<node id="Mercedes-Benz">
+  <data key="d0">Mobility</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Stellantis">
+  <data key="d0">Mobility</data>
+  <data key="d1">NL</data>
+</node>
+<node id="Lucid">
+  <data key="d0">Mobility</data>
+  <data key="d1">US</data>
+</node>
+<node id="Toyota">
+  <data key="d0">Mobility</data>
+  <data key="d1">JP</data>
+</node>
+<node id="GM">
+  <data key="d0">Mobility</data>
+  <data key="d1">US</data>
+</node>
+<node id="BYD">
+  <data key="d0">Mobility</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Hyundai">
+  <data key="d0">Mobility</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Kia">
+  <data key="d0">Mobility</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Nissan">
+  <data key="d0">Mobility</data>
+  <data key="d1">JP</data>
+</node>
+<node id="Geely">
+  <data key="d0">Mobility</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Isuzu">
+  <data key="d0">Mobility</data>
+  <data key="d1">JP</data>
+</node>
+<node id="Aurora">
+  <data key="d0">Mobility</data>
+  <data key="d1">US</data>
+</node>
+<node id="Volvo Autonomous Solutions">
+  <data key="d0">Mobility</data>
+  <data key="d1">SE</data>
+</node>
+<node id="Waabi">
+  <data key="d0">Mobility</data>
+  <data key="d1">CA</data>
+</node>
+<node id="Wayve">
+  <data key="d0">Mobility</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Oxa">
+  <data key="d0">Mobility</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Audi">
+  <data key="d0">Mobility</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Nuro">
+  <data key="d0">Mobility</data>
+  <data key="d1">US</data>
+</node>
+<node id="WeRide">
+  <data key="d0">Mobility</data>
+  <data key="d1">CN</data>
+</node>
+<node id="1X">
+  <data key="d0">Robotics</data>
+  <data key="d1">NO</data>
+</node>
+<node id="Agility Robotics">
+  <data key="d0">Robotics</data>
+  <data key="d1">US</data>
+</node>
+<node id="Apptronik">
+  <data key="d0">Robotics</data>
+  <data key="d1">US</data>
+</node>
+<node id="Boston Dynamics">
+  <data key="d0">Robotics</data>
+  <data key="d1">US</data>
+</node>
+<node id="Figure AI">
+  <data key="d0">Robotics</data>
+  <data key="d1">US</data>
+</node>
+<node id="Fourier">
+  <data key="d0">Robotics</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Sanctuary AI">
+  <data key="d0">Robotics</data>
+  <data key="d1">CA</data>
+</node>
+<node id="Unitree">
+  <data key="d0">Robotics</data>
+  <data key="d1">CN</data>
+</node>
+<node id="XPENG">
+  <data key="d0">Robotics</data>
+  <data key="d1">CN</data>
+</node>
+<node id="NEURA Robotics">
+  <data key="d0">Robotics</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Mentee Robotics">
+  <data key="d0">Robotics</data>
+  <data key="d1">IL</data>
+</node>
+<node id="Disney Research">
+  <data key="d0">Robotics</data>
+  <data key="d1">US</data>
+</node>
+<node id="Agile Robots">
+  <data key="d0">Robotics</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Generalist AI">
+  <data key="d0">Robotics</data>
+  <data key="d1">US</data>
+</node>
+<node id="Nokia">
+  <data key="d0">Telecom</data>
+  <data key="d1">FI</data>
+</node>
+<node id="Ericsson">
+  <data key="d0">Telecom</data>
+  <data key="d1">SE</data>
+</node>
+<node id="T-Mobile">
+  <data key="d0">Telecom</data>
+  <data key="d1">US</data>
+</node>
+<node id="SoftBank">
+  <data key="d0">Telecom</data>
+  <data key="d1">JP</data>
+</node>
+<node id="BT">
+  <data key="d0">Telecom</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Deutsche Telekom">
+  <data key="d0">Telecom</data>
+  <data key="d1">DE</data>
+</node>
+<node id="SK Telecom">
+  <data key="d0">Telecom</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Orange">
+  <data key="d0">Telecom</data>
+  <data key="d1">FR</data>
+</node>
+<node id="Elisa">
+  <data key="d0">Telecom</data>
+  <data key="d1">FI</data>
+</node>
+<node id="Indosat">
+  <data key="d0">Telecom</data>
+  <data key="d1">ID</data>
+</node>
+<node id="NTT DOCOMO">
+  <data key="d0">Telecom</data>
+  <data key="d1">JP</data>
+</node>
+<node id="Vodafone">
+  <data key="d0">Telecom</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Humain">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">SA</data>
+</node>
+<node id="G42">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">AE</data>
+</node>
+<node id="Saudi PIF">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">SA</data>
+</node>
+<node id="Korea MSIT">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">KR</data>
+</node>
+<node id="SK Group">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">KR</data>
+</node>
+<node id="NAVER Cloud">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">KR</data>
+</node>
+<node id="Reliance">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">IN</data>
+</node>
+<node id="Tata Group">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">IN</data>
+</node>
+<node id="German government">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">DE</data>
+</node>
+<node id="UK government">
+  <data key="d0">Sovereign AI</data>
+  <data key="d1">UK</data>
+</node>
+<node id="Eli Lilly">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">US</data>
+</node>
+<node id="Novo Nordisk">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">DK</data>
+</node>
+<node id="Thermo Fisher">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">US</data>
+</node>
+<node id="Johnson &amp; Johnson">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">US</data>
+</node>
+<node id="Siemens Healthineers">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Hippocratic AI">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">US</data>
+</node>
+<node id="Abridge">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">US</data>
+</node>
+<node id="Aidoc">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">IL</data>
+</node>
+<node id="Doctolib">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">FR</data>
+</node>
+<node id="Recursion">
+  <data key="d0">Health &amp; science</data>
+  <data key="d1">US</data>
+</node>
+<node id="Quantinuum">
+  <data key="d0">Quantum</data>
+  <data key="d1">US</data>
+</node>
+<node id="PsiQuantum">
+  <data key="d0">Quantum</data>
+  <data key="d1">US</data>
+</node>
+<node id="Alice &amp; Bob">
+  <data key="d0">Quantum</data>
+  <data key="d1">FR</data>
+</node>
+<node id="SAP">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">DE</data>
+</node>
+<node id="ServiceNow">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">US</data>
+</node>
+<node id="CrowdStrike">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">US</data>
+</node>
+<node id="Palo Alto Networks">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">US</data>
+</node>
+<node id="Siemens">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">DE</data>
+</node>
+<node id="Legora">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">SE</data>
+</node>
+<node id="Pigment">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">FR</data>
+</node>
+<node id="Genesis AI">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">FR</data>
+</node>
+<node id="Booz Allen">
+  <data key="d0">Enterprise software</data>
+  <data key="d1">US</data>
+</node>
+<node id="Mellanox">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">IL</data>
+</node>
+<node id="Cumulus Networks">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Run:ai">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">IL</data>
+</node>
+<node id="Deci">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">IL</data>
+</node>
+<node id="OctoAI">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Brev.dev">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Shoreline">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="VinBrain">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">VN</data>
+</node>
+<node id="Gretel">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Lepton AI">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="CentML">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">CA</data>
+</node>
+<node id="Solver">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Enfabrica">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="SchedMD">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Groq">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Kumo AI">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="Hugging Face">
+  <data key="d0">Acquired by NVIDIA</data>
+  <data key="d1">US</data>
+</node>
+<node id="US Commerce Dept (BIS)">
+  <data key="d0">Regulator</data>
+  <data key="d1">US</data>
+</node>
+<node id="China SAMR">
+  <data key="d0">Regulator</data>
+  <data key="d1">CN</data>
+</node>
+<node id="Jensen Huang">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Chris Malachowsky">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Colette Kress">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Jay Puri">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Nicholas Parker">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Debora Shoquist">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Tim Teter">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Bill Dally">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Ian Buck">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Kimberly Powell">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<node id="Ali Kani">
+  <data key="d0">Person</data>
+  <data key="d1">US</data>
+</node>
+<edge source="NVIDIA" target="OpenAI">
+  <data key="d2">customer</data>
+  <data key="d3">LOI for at least 10 GW of NVIDIA systems; first GW on Vera Rubin</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">OAI10</data>
+</edge>
+<edge source="NVIDIA" target="Anthropic">
+  <data key="d2">customer</data>
+  <data key="d3">Up to 1 GW of Grace Blackwell and Vera Rubin</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">ANTH</data>
+</edge>
+<edge source="NVIDIA" target="xAI">
+  <data key="d2">customer</data>
+  <data key="d3">Colossus (Memphis): 100k+ GPUs, expanding with GB200</data>
+  <data key="d4"></data>
+  <data key="d5">XAI</data>
+</edge>
+<edge source="NVIDIA" target="Intel">
+  <data key="d2">competitor</data>
+  <data key="d3">Server CPUs vs Grace/Vera</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">DECMETA</data>
+</edge>
+<edge source="NVIDIA" target="Nokia">
+  <data key="d2">partner</data>
+  <data key="d3">AI-RAN on Aerial RAN Computer</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">NOKIA</data>
+</edge>
+<edge source="NVIDIA" target="Synopsys">
+  <data key="d2">partner</data>
+  <data key="d3">GPU-accelerated EDA and digital twins</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">SYN</data>
+</edge>
+<edge source="NVIDIA" target="CoreWeave">
+  <data key="d2">customer</data>
+  <data key="d3">NVIDIA Cloud Partner</data>
+  <data key="d4"></data>
+  <data key="d5">CW</data>
+</edge>
+<edge source="NVIDIA" target="Nebius">
+  <data key="d2">customer</data>
+  <data key="d3">GPU cloud capacity</data>
+  <data key="d4">2026</data>
+  <data key="d5">NEB</data>
+</edge>
+<edge source="NVIDIA" target="Nscale">
+  <data key="d2">customer</data>
+  <data key="d3">GB300 NVL72 cloud</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="NVIDIA" target="Marvell">
+  <data key="d2">partner</data>
+  <data key="d3">NVLink Fusion</data>
+  <data key="d4">2025-05</data>
+  <data key="d5">NVL</data>
+</edge>
+<edge source="NVIDIA" target="Lumentum">
+  <data key="d2">investment</data>
+  <data key="d3">Optics supplier stake</data>
+  <data key="d4">2026</data>
+  <data key="d5">DEC</data>
+</edge>
+<edge source="NVIDIA" target="Coherent">
+  <data key="d2">investment</data>
+  <data key="d3">Optics supplier stake</data>
+  <data key="d4">2026</data>
+  <data key="d5">DEC</data>
+</edge>
+<edge source="NVIDIA" target="IREN">
+  <data key="d2">investment</data>
+  <data key="d3">Right to invest up to $2.1B</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">DEC</data>
+</edge>
+<edge source="NVIDIA" target="Corning">
+  <data key="d2">investment</data>
+  <data key="d3">Right to invest up to $3.2B (fiber optics)</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">DEC</data>
+</edge>
+<edge source="NVIDIA" target="Cursor">
+  <data key="d2">investment</data>
+  <data key="d3">$2.3B round at $29.3B valuation</data>
+  <data key="d4">2025</data>
+  <data key="d5">HYPER</data>
+</edge>
+<edge source="NVIDIA" target="Mistral AI">
+  <data key="d2">customer</data>
+  <data key="d3">Mistral Compute: 18k Grace Blackwell superchips</data>
+  <data key="d4">2025</data>
+  <data key="d5">FRMIS</data>
+</edge>
+<edge source="NVIDIA" target="Reflection AI">
+  <data key="d2">investment</data>
+  <data key="d3">$2B round at $8B valuation</data>
+  <data key="d4">2025</data>
+  <data key="d5">HYPER</data>
+</edge>
+<edge source="NVIDIA" target="Thinking Machines Lab">
+  <data key="d2">investment</data>
+  <data key="d3">$2B seed at $12B valuation</data>
+  <data key="d4">2025</data>
+  <data key="d5">HYPER</data>
+</edge>
+<edge source="NVIDIA" target="Cohere">
+  <data key="d2">investment</data>
+  <data key="d3">Model-builder stake</data>
+  <data key="d4">2025</data>
+  <data key="d5">FORBES</data>
+</edge>
+<edge source="NVIDIA" target="Figure AI">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="Wayve">
+  <data key="d2">investment</data>
+  <data key="d3">Series D</data>
+  <data key="d4">2026</data>
+  <data key="d5">KR36</data>
+</edge>
+<edge source="NVIDIA" target="Baseten">
+  <data key="d2">investment</data>
+  <data key="d3">$150M of a $300M round</data>
+  <data key="d4">2026</data>
+  <data key="d5">KR36</data>
+</edge>
+<edge source="NVIDIA" target="Together AI">
+  <data key="d2">investment</data>
+  <data key="d3">Series C ($800M round)</data>
+  <data key="d4">2026-07</data>
+  <data key="d5">VAVC</data>
+</edge>
+<edge source="NVIDIA" target="Lambda">
+  <data key="d2">customer</data>
+  <data key="d3">NVIDIA Cloud Partner</data>
+  <data key="d4"></data>
+  <data key="d5">CW</data>
+</edge>
+<edge source="NVIDIA" target="Crusoe">
+  <data key="d2">customer</data>
+  <data key="d3">NVIDIA Cloud Partner hosting Meta capacity</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">METAP</data>
+</edge>
+<edge source="NVIDIA" target="Fireworks AI">
+  <data key="d2">investment</data>
+  <data key="d3">Series D</data>
+  <data key="d4">2026-07</data>
+  <data key="d5">VAVC</data>
+</edge>
+<edge source="NVIDIA" target="Perplexity">
+  <data key="d2">investment</data>
+  <data key="d3">NVentures stake</data>
+  <data key="d4">2024</data>
+  <data key="d5">NVENT</data>
+</edge>
+<edge source="NVIDIA" target="Runway">
+  <data key="d2">investment</data>
+  <data key="d3">Series C</data>
+  <data key="d4">2023</data>
+  <data key="d5">NVENT</data>
+</edge>
+<edge source="NVIDIA" target="Hippocratic AI">
+  <data key="d2">investment</data>
+  <data key="d3">NVentures stake</data>
+  <data key="d4">2025</data>
+  <data key="d5">NVENT</data>
+</edge>
+<edge source="NVIDIA" target="Quantinuum">
+  <data key="d2">investment</data>
+  <data key="d3">$600M round</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">NVENT</data>
+</edge>
+<edge source="NVIDIA" target="PsiQuantum">
+  <data key="d2">investment</data>
+  <data key="d3">NVentures stake</data>
+  <data key="d4">2025</data>
+  <data key="d5">KUCOIN</data>
+</edge>
+<edge source="NVIDIA" target="Alice &amp; Bob">
+  <data key="d2">investment</data>
+  <data key="d3">Series B</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">NEB</data>
+</edge>
+<edge source="NVIDIA" target="TerraPower">
+  <data key="d2">investment</data>
+  <data key="d3">$650M round (nuclear power for AI)</data>
+  <data key="d4">2025</data>
+  <data key="d5">NVENT</data>
+</edge>
+<edge source="NVIDIA" target="Synthesia">
+  <data key="d2">investment</data>
+  <data key="d3">NVentures unicorn</data>
+  <data key="d4"></data>
+  <data key="d5">KUCOIN</data>
+</edge>
+<edge source="NVIDIA" target="Abridge">
+  <data key="d2">investment</data>
+  <data key="d3">NVentures unicorn</data>
+  <data key="d4"></data>
+  <data key="d5">KUCOIN</data>
+</edge>
+<edge source="NVIDIA" target="OpenRouter">
+  <data key="d2">investment</data>
+  <data key="d3">$113M Series B</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">BAIDU</data>
+</edge>
+<edge source="NVIDIA" target="Legora">
+  <data key="d2">investment</data>
+  <data key="d3">Series E at $5.6B valuation</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">NEB</data>
+</edge>
+<edge source="NVIDIA" target="Aidoc">
+  <data key="d2">investment</data>
+  <data key="d3">$150M round</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">NEB</data>
+</edge>
+<edge source="NVIDIA" target="Generalist AI">
+  <data key="d2">investment</data>
+  <data key="d3">$400M round</data>
+  <data key="d4">2026-06</data>
+  <data key="d5">NEB</data>
+</edge>
+<edge source="NVIDIA" target="Oxa">
+  <data key="d2">investment</data>
+  <data key="d3">$103M round</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">BAIDU</data>
+</edge>
+<edge source="NVIDIA" target="Prime Intellect">
+  <data key="d2">investment</data>
+  <data key="d3">Series A</data>
+  <data key="d4">2026-07</data>
+  <data key="d5">VAVC</data>
+</edge>
+<edge source="NVIDIA" target="Starcloud">
+  <data key="d2">investment</data>
+  <data key="d3">Extension round</data>
+  <data key="d4">2026-08</data>
+  <data key="d5">VAVC</data>
+</edge>
+<edge source="NVIDIA" target="Firmus">
+  <data key="d2">investment</data>
+  <data key="d3">Growth round</data>
+  <data key="d4">2026-08</data>
+  <data key="d5">VAVC</data>
+</edge>
+<edge source="NVIDIA" target="Tensormesh">
+  <data key="d2">investment</data>
+  <data key="d3">Seed extension alongside AMD and CoreWeave</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">KUCOIN</data>
+</edge>
+<edge source="NVIDIA" target="Doctolib">
+  <data key="d2">investment</data>
+  <data key="d3">Part of ~$2B France plan</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">FR</data>
+</edge>
+<edge source="NVIDIA" target="Genesis AI">
+  <data key="d2">investment</data>
+  <data key="d3">Part of ~$2B France plan</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">FR</data>
+</edge>
+<edge source="NVIDIA" target="Pigment">
+  <data key="d2">investment</data>
+  <data key="d3">Part of ~$2B France plan</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">FR</data>
+</edge>
+<edge source="NVIDIA" target="Arm">
+  <data key="d2">investment</data>
+  <data key="d3">Stake cut or sold in Q4 2025</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">LDS</data>
+</edge>
+<edge source="NVIDIA" target="Applied Digital">
+  <data key="d2">investment</data>
+  <data key="d3">Stake cut or sold in Q4 2025</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">LDS</data>
+</edge>
+<edge source="NVIDIA" target="Recursion">
+  <data key="d2">investment</data>
+  <data key="d3">Stake cut or sold in Q4 2025</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">LDS</data>
+</edge>
+<edge source="NVIDIA" target="WeRide">
+  <data key="d2">investment</data>
+  <data key="d3">Stake cut or sold in Q4 2025</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">LDS</data>
+</edge>
+<edge source="NVIDIA" target="Mellanox">
+  <data key="d2">acquisition</data>
+  <data key="d3">~$7B; basis of NVIDIA networking</data>
+  <data key="d4">2020-04</data>
+  <data key="d5">MELL</data>
+</edge>
+<edge source="NVIDIA" target="Cumulus Networks">
+  <data key="d2">acquisition</data>
+  <data key="d3">Open networking software</data>
+  <data key="d4">2020-05</data>
+  <data key="d5">MELL</data>
+</edge>
+<edge source="NVIDIA" target="Run:ai">
+  <data key="d2">acquisition</data>
+  <data key="d3">$700M; GPU orchestration</data>
+  <data key="d4">2024-12</data>
+  <data key="d5">FOOL</data>
+</edge>
+<edge source="NVIDIA" target="Deci">
+  <data key="d2">acquisition</data>
+  <data key="d3">~$300M; model optimization</data>
+  <data key="d4">2024-04</data>
+  <data key="d5">FOOL</data>
+</edge>
+<edge source="NVIDIA" target="OctoAI">
+  <data key="d2">acquisition</data>
+  <data key="d3">~$250M; inference serving</data>
+  <data key="d4">2024-09</data>
+  <data key="d5">FOOL</data>
+</edge>
+<edge source="NVIDIA" target="Brev.dev">
+  <data key="d2">acquisition</data>
+  <data key="d3">GPU developer platform</data>
+  <data key="d4">2024-07</data>
+  <data key="d5">FOOL</data>
+</edge>
+<edge source="NVIDIA" target="Shoreline">
+  <data key="d2">acquisition</data>
+  <data key="d3">Incident automation</data>
+  <data key="d4">2024</data>
+  <data key="d5">FOOL</data>
+</edge>
+<edge source="NVIDIA" target="VinBrain">
+  <data key="d2">acquisition</data>
+  <data key="d3">Medical AI (Vietnam)</data>
+  <data key="d4">2024-12</data>
+  <data key="d5">FOOL</data>
+</edge>
+<edge source="NVIDIA" target="Gretel">
+  <data key="d2">acquisition</data>
+  <data key="d3">Synthetic data; nine-figure deal</data>
+  <data key="d4">2025-03</data>
+  <data key="d5">PRIV</data>
+</edge>
+<edge source="NVIDIA" target="Lepton AI">
+  <data key="d2">acquisition</data>
+  <data key="d3">GPU cloud software</data>
+  <data key="d4">2025-04</data>
+  <data key="d5">SEED</data>
+</edge>
+<edge source="NVIDIA" target="CentML">
+  <data key="d2">acquisition</data>
+  <data key="d3">Inference optimization</data>
+  <data key="d4">2025-06</data>
+  <data key="d5">PRIV</data>
+</edge>
+<edge source="NVIDIA" target="Solver">
+  <data key="d2">acquisition</data>
+  <data key="d3">AI coding agents</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">SOLVER</data>
+</edge>
+<edge source="NVIDIA" target="Enfabrica">
+  <data key="d2">acquisition</data>
+  <data key="d3">&gt;$900M acquihire and license</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">ENF</data>
+</edge>
+<edge source="NVIDIA" target="SchedMD">
+  <data key="d2">acquisition</data>
+  <data key="d3">Slurm scheduler; stays open source</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">SCHED</data>
+</edge>
+<edge source="NVIDIA" target="Groq">
+  <data key="d2">acquisition</data>
+  <data key="d3">~$20B license and acquihire; GroqCloud stays independent</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">GROQ</data>
+</edge>
+<edge source="NVIDIA" target="Kumo AI">
+  <data key="d2">acquisition</data>
+  <data key="d3">Reported ~$400M; relational foundation models</data>
+  <data key="d4">2026-06</data>
+  <data key="d5">PRIV</data>
+</edge>
+<edge source="NVIDIA" target="Hugging Face">
+  <data key="d2">acquisition</data>
+  <data key="d3">$12.93B; expected to close H1 2027</data>
+  <data key="d4">2026-09</data>
+  <data key="d5">SHF</data>
+</edge>
+<edge source="NVIDIA" target="Dell">
+  <data key="d2">partner</data>
+  <data key="d3">#1 branded server OEM (16.5% share)</data>
+  <data key="d4">2026</data>
+  <data key="d5">OEM</data>
+</edge>
+<edge source="NVIDIA" target="Supermicro">
+  <data key="d2">partner</data>
+  <data key="d3">Server OEM</data>
+  <data key="d4">2026</data>
+  <data key="d5">OEM</data>
+</edge>
+<edge source="NVIDIA" target="HPE">
+  <data key="d2">partner</data>
+  <data key="d3">Private Cloud AI expansion at GTC 2026</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">HPE</data>
+</edge>
+<edge source="NVIDIA" target="Lenovo">
+  <data key="d2">partner</data>
+  <data key="d3">Server OEM</data>
+  <data key="d4">2026</data>
+  <data key="d5">OEM</data>
+</edge>
+<edge source="NVIDIA" target="Cisco">
+  <data key="d2">partner</data>
+  <data key="d3">Networking; 6G commitment</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL</data>
+</edge>
+<edge source="NVIDIA" target="Vertiv">
+  <data key="d2">partner</data>
+  <data key="d3">DSX POD power and cooling</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="NVIDIA" target="Schneider Electric">
+  <data key="d2">partner</data>
+  <data key="d3">DSX POD partner</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="NVIDIA" target="Eaton">
+  <data key="d2">partner</data>
+  <data key="d3">DSX POD partner</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="NVIDIA" target="Meta">
+  <data key="d2">competitor</data>
+  <data key="d3">MTIA</data>
+  <data key="d4">2026</data>
+  <data key="d5">ASIC</data>
+</edge>
+<edge source="NVIDIA" target="Microsoft">
+  <data key="d2">competitor</data>
+  <data key="d3">Maia 200</data>
+  <data key="d4">2026</data>
+  <data key="d5">ASIC</data>
+</edge>
+<edge source="NVIDIA" target="Amazon">
+  <data key="d2">competitor</data>
+  <data key="d3">Trainium 3</data>
+  <data key="d4">2026</data>
+  <data key="d5">ASIC</data>
+</edge>
+<edge source="NVIDIA" target="Google">
+  <data key="d2">competitor</data>
+  <data key="d3">TPU v7/v8</data>
+  <data key="d4">2026</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="NVIDIA" target="Oracle">
+  <data key="d2">customer</data>
+  <data key="d3">OCI GB200 racks at Stargate Abilene</data>
+  <data key="d4">2025-06</data>
+  <data key="d5">REG</data>
+</edge>
+<edge source="NVIDIA" target="Humain">
+  <data key="d2">customer</data>
+  <data key="d3">Up to 600k GPUs over 3 years; +27k GPUs (84 MW) in Oct 2026</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">HUM</data>
+</edge>
+<edge source="NVIDIA" target="G42">
+  <data key="d2">customer</data>
+  <data key="d3">Approved for up to 35k Blackwell-equivalents</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">HUM2</data>
+</edge>
+<edge source="NVIDIA" target="Samsung">
+  <data key="d2">customer</data>
+  <data key="d3">Part of Korea's 260k-GPU program</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">KOR</data>
+</edge>
+<edge source="NVIDIA" target="SK Group">
+  <data key="d2">customer</data>
+  <data key="d3">Part of Korea's 260k-GPU program</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">KOR</data>
+</edge>
+<edge source="NVIDIA" target="Hyundai">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion (expanded)</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO3</data>
+</edge>
+<edge source="NVIDIA" target="NAVER Cloud">
+  <data key="d2">customer</data>
+  <data key="d3">Part of Korea's 260k-GPU program</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">KOR</data>
+</edge>
+<edge source="NVIDIA" target="Korea MSIT">
+  <data key="d2">customer</data>
+  <data key="d3">50k GPUs for sovereign models</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">KOR2</data>
+</edge>
+<edge source="NVIDIA" target="Reliance">
+  <data key="d2">customer</data>
+  <data key="d3">GH200 and DGX Cloud AI infrastructure</data>
+  <data key="d4">2023-09</data>
+  <data key="d5">INDIA</data>
+</edge>
+<edge source="NVIDIA" target="Tata Group">
+  <data key="d2">customer</data>
+  <data key="d3">GH200 AI cloud</data>
+  <data key="d4">2023-09</data>
+  <data key="d5">INDIA</data>
+</edge>
+<edge source="NVIDIA" target="Deutsche Telekom">
+  <data key="d2">customer</data>
+  <data key="d3">Industrial AI Cloud</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="Eli Lilly">
+  <data key="d2">customer</data>
+  <data key="d3">Pharma's largest AI factory (DGX SuperPOD B300)</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">LILLY</data>
+</edge>
+<edge source="NVIDIA" target="Novo Nordisk">
+  <data key="d2">customer</data>
+  <data key="d3">DGX SuperPOD supercomputer in Denmark</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">NOVO</data>
+</edge>
+<edge source="NVIDIA" target="Alibaba">
+  <data key="d2">customer</data>
+  <data key="d3">Cleared by Beijing to prepare H200 orders</data>
+  <data key="d4">2026</data>
+  <data key="d5">CHINA</data>
+</edge>
+<edge source="NVIDIA" target="Uber">
+  <data key="d2">partner</data>
+  <data key="d3">Robotaxis: up to 100k L4 vehicles from 2027; 28 cities by 2028</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO2</data>
+</edge>
+<edge source="NVIDIA" target="Mercedes-Benz">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion; S-Class robotaxi</data>
+  <data key="d4">2026-01</data>
+  <data key="d5">BGOV</data>
+</edge>
+<edge source="NVIDIA" target="Stellantis">
+  <data key="d2">partner</data>
+  <data key="d3">At least 5000 L4 vehicles for Uber from 2028</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO4</data>
+</edge>
+<edge source="NVIDIA" target="Lucid">
+  <data key="d2">partner</data>
+  <data key="d3">L4 autonomy</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO1</data>
+</edge>
+<edge source="NVIDIA" target="Toyota">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO2</data>
+</edge>
+<edge source="NVIDIA" target="GM">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO2</data>
+</edge>
+<edge source="NVIDIA" target="BYD">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO2</data>
+</edge>
+<edge source="NVIDIA" target="Kia">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion (expanded)</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO3</data>
+</edge>
+<edge source="NVIDIA" target="Nissan">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO2</data>
+</edge>
+<edge source="NVIDIA" target="Geely">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO2</data>
+</edge>
+<edge source="NVIDIA" target="Isuzu">
+  <data key="d2">partner</data>
+  <data key="d3">DRIVE Hyperion</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">AUTO3</data>
+</edge>
+<edge source="NVIDIA" target="Aurora">
+  <data key="d2">partner</data>
+  <data key="d3">Long-haul trucking on Hyperion 10</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO1</data>
+</edge>
+<edge source="NVIDIA" target="Volvo Autonomous Solutions">
+  <data key="d2">partner</data>
+  <data key="d3">Long-haul trucking on Hyperion 10</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO1</data>
+</edge>
+<edge source="NVIDIA" target="Waabi">
+  <data key="d2">partner</data>
+  <data key="d3">Long-haul trucking on Hyperion 10</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO1</data>
+</edge>
+<edge source="NVIDIA" target="Audi">
+  <data key="d2">partner</data>
+  <data key="d3">German industrial-AI initiative</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">GERM</data>
+</edge>
+<edge source="NVIDIA" target="1X">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T N1 on NEO Gamma</data>
+  <data key="d4">2025-03</data>
+  <data key="d5">ROBO2</data>
+</edge>
+<edge source="NVIDIA" target="Agility Robotics">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="Apptronik">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="Boston Dynamics">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="Fourier">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="Sanctuary AI">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="Unitree">
+  <data key="d2">partner</data>
+  <data key="d3">First OEM for NVIDIA's GR00T humanoid kit (H2)</data>
+  <data key="d4">2026</data>
+  <data key="d5">UNITREE</data>
+</edge>
+<edge source="NVIDIA" target="XPENG">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T humanoid platform</data>
+  <data key="d4">2024-03</data>
+  <data key="d5">ROBO</data>
+</edge>
+<edge source="NVIDIA" target="NEURA Robotics">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T N1 early access</data>
+  <data key="d4">2025-03</data>
+  <data key="d5">ROBO2</data>
+</edge>
+<edge source="NVIDIA" target="Mentee Robotics">
+  <data key="d2">partner</data>
+  <data key="d3">GR00T N1 early access</data>
+  <data key="d4">2025-03</data>
+  <data key="d5">ROBO2</data>
+</edge>
+<edge source="NVIDIA" target="Google DeepMind">
+  <data key="d2">partner</data>
+  <data key="d3">Robotics physics engine collaboration</data>
+  <data key="d4">2025-03</data>
+  <data key="d5">ROBO2</data>
+</edge>
+<edge source="NVIDIA" target="Disney Research">
+  <data key="d2">partner</data>
+  <data key="d3">Robotics physics engine collaboration</data>
+  <data key="d4">2025-03</data>
+  <data key="d5">ROBO2</data>
+</edge>
+<edge source="NVIDIA" target="Foxconn">
+  <data key="d2">partner</data>
+  <data key="d3">Humanoid robots in Kaohsiung</data>
+  <data key="d4">2025</data>
+  <data key="d5">FOXROBO</data>
+</edge>
+<edge source="NVIDIA" target="T-Mobile">
+  <data key="d2">partner</data>
+  <data key="d3">World's first AI-RAN call on a commercial network</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="NVIDIA" target="SoftBank">
+  <data key="d2">partner</data>
+  <data key="d3">AITRAS AI-RAN</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL2</data>
+</edge>
+<edge source="NVIDIA" target="Ericsson">
+  <data key="d2">partner</data>
+  <data key="d3">AI-native 6G commitment</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL</data>
+</edge>
+<edge source="NVIDIA" target="BT">
+  <data key="d2">partner</data>
+  <data key="d3">AI-RAN pilots</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="NVIDIA" target="SK Telecom">
+  <data key="d2">partner</data>
+  <data key="d3">AI-native 6G commitment</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL</data>
+</edge>
+<edge source="NVIDIA" target="Orange">
+  <data key="d2">partner</data>
+  <data key="d3">AI-RAN tests; voice intelligence</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="Elisa">
+  <data key="d2">partner</data>
+  <data key="d3">Europe's first AI-RAN field trial</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="NVIDIA" target="Indosat">
+  <data key="d2">partner</data>
+  <data key="d3">AI-RAN</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL2</data>
+</edge>
+<edge source="NVIDIA" target="NTT DOCOMO">
+  <data key="d2">partner</data>
+  <data key="d3">AI-RAN on Aerial</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL2</data>
+</edge>
+<edge source="NVIDIA" target="Vodafone">
+  <data key="d2">partner</data>
+  <data key="d3">AI-RAN on Aerial</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL2</data>
+</edge>
+<edge source="NVIDIA" target="Booz Allen">
+  <data key="d2">partner</data>
+  <data key="d3">AI-native 6G commitment</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL</data>
+</edge>
+<edge source="NVIDIA" target="Siemens">
+  <data key="d2">partner</data>
+  <data key="d3">Industrial AI and digital twins</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">GERM</data>
+</edge>
+<edge source="NVIDIA" target="Siemens Healthineers">
+  <data key="d2">partner</data>
+  <data key="d3">Adaptive radiotherapy</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="SAP">
+  <data key="d2">partner</data>
+  <data key="d3">Safe agents in agent platforms</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="ServiceNow">
+  <data key="d2">partner</data>
+  <data key="d3">Safe agents in agent platforms</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="CrowdStrike">
+  <data key="d2">partner</data>
+  <data key="d3">Agent security integration</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="Palo Alto Networks">
+  <data key="d2">partner</data>
+  <data key="d3">Agent security integration</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="NVIDIA" target="Black Forest Labs">
+  <data key="d2">partner</data>
+  <data key="d3">German industrial-AI initiative</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">GERM</data>
+</edge>
+<edge source="NVIDIA" target="Thermo Fisher">
+  <data key="d2">partner</data>
+  <data key="d3">Autonomous lab infrastructure</data>
+  <data key="d4">2026-01</data>
+  <data key="d5">JPM</data>
+</edge>
+<edge source="NVIDIA" target="Johnson &amp; Johnson">
+  <data key="d2">partner</data>
+  <data key="d3">MedTech surgical robotics</data>
+  <data key="d4">2025</data>
+  <data key="d5">EMARK</data>
+</edge>
+<edge source="NVIDIA" target="Qualcomm">
+  <data key="d2">competitor</data>
+  <data key="d3">AI200/AI250 inference chips</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">VERD</data>
+</edge>
+<edge source="NVIDIA" target="Fujitsu">
+  <data key="d2">partner</data>
+  <data key="d3">NVLink Fusion</data>
+  <data key="d4">2025-05</data>
+  <data key="d5">NVL</data>
+</edge>
+<edge source="NVIDIA" target="MediaTek">
+  <data key="d2">partner</data>
+  <data key="d3">NVLink Fusion</data>
+  <data key="d4">2025-05</data>
+  <data key="d5">NVL</data>
+</edge>
+<edge source="NVIDIA" target="German government">
+  <data key="d2">partner</data>
+  <data key="d3">Strategic AI cooperation at Invest in Germany Summit</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">CNBCDE</data>
+</edge>
+<edge source="NVIDIA" target="UK government">
+  <data key="d2">partner</data>
+  <data key="d3">$250M of compute for AI-agent safety research</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">EUINV</data>
+</edge>
+<edge source="NVIDIA" target="AMD">
+  <data key="d2">competitor</data>
+  <data key="d3">GPUs; ~14 GW of AMD commitments</data>
+  <data key="d4">2026</data>
+  <data key="d5">MARV</data>
+</edge>
+<edge source="NVIDIA" target="Broadcom">
+  <data key="d2">competitor</data>
+  <data key="d3">Custom AI ASICs</data>
+  <data key="d4">2026</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="NVIDIA" target="Cerebras">
+  <data key="d2">competitor</data>
+  <data key="d3">CS-4 inference systems</data>
+  <data key="d4">2026</data>
+  <data key="d5">MARV</data>
+</edge>
+<edge source="NVIDIA" target="Huawei">
+  <data key="d2">competitor</data>
+  <data key="d3">Chinese AI chips backed by Beijing</data>
+  <data key="d4">2026</data>
+  <data key="d5">CHINA</data>
+</edge>
+<edge source="NVIDIA" target="Cambricon">
+  <data key="d2">competitor</data>
+  <data key="d3">Chinese AI chips backed by Beijing</data>
+  <data key="d4">2026</data>
+  <data key="d5">CHINA</data>
+</edge>
+<edge source="NVIDIA" target="MetaX">
+  <data key="d2">competitor</data>
+  <data key="d3">Chinese AI chips</data>
+  <data key="d4">2026</data>
+  <data key="d5">CHINA</data>
+</edge>
+<edge source="NVIDIA" target="Moore Threads">
+  <data key="d2">competitor</data>
+  <data key="d3">Chinese AI chips</data>
+  <data key="d4">2026</data>
+  <data key="d5">CHINA</data>
+</edge>
+<edge source="OpenAI" target="AMD">
+  <data key="d2">ecosystem</data>
+  <data key="d3">6 GW of AMD GPUs; warrant for 160M AMD shares</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AMDOAI</data>
+</edge>
+<edge source="OpenAI" target="Broadcom">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Custom chip deal</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">VERD</data>
+</edge>
+<edge source="OpenAI" target="Cerebras">
+  <data key="d2">ecosystem</data>
+  <data key="d3">$20B+ inference compute commitment</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="OpenAI" target="Oracle">
+  <data key="d2">ecosystem</data>
+  <data key="d3">~$300B over 5 years; 4.5 GW for Stargate</data>
+  <data key="d4">2025-07</data>
+  <data key="d5">REG</data>
+</edge>
+<edge source="OpenAI" target="CoreWeave">
+  <data key="d2">ecosystem</data>
+  <data key="d3">$11.9B + up to $4B contracts</data>
+  <data key="d4">2025</data>
+  <data key="d5">CWCO</data>
+</edge>
+<edge source="OpenAI" target="Microsoft">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Azure GB300 cluster for OpenAI workloads</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AZURE</data>
+</edge>
+<edge source="OpenAI" target="G42">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Stargate UAE (1 GW, with Oracle)</data>
+  <data key="d4">2026</data>
+  <data key="d5">HUM</data>
+</edge>
+<edge source="Anthropic" target="Microsoft">
+  <data key="d2">ecosystem</data>
+  <data key="d3">$30B Azure compute commitment</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">ANTH</data>
+</edge>
+<edge source="Anthropic" target="Google">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Anchor customer for TPU 8t and 8i</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="Anthropic" target="AMD">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Up to 2 GW of MI450</data>
+  <data key="d4">2026</data>
+  <data key="d5">AMDANTH</data>
+</edge>
+<edge source="Google DeepMind" target="Google">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Alphabet AI lab</data>
+  <data key="d4"></data>
+  <data key="d5">ROBO2</data>
+</edge>
+<edge source="CoreWeave" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">NVIDIA backstops unsold capacity: $6.3B order through 2032</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">CW</data>
+</edge>
+<edge source="CoreWeave" target="Tensormesh">
+  <data key="d2">investment</data>
+  <data key="d3">Seed extension</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">KUCOIN</data>
+</edge>
+<edge source="CoreWeave" target="Microsoft">
+  <data key="d2">ecosystem</data>
+  <data key="d3">One of CoreWeave's two largest customers</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">CWCO</data>
+</edge>
+<edge source="Lambda" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">NVIDIA leases back 18000 GPUs: $1.5B over 5 years</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">CW</data>
+</edge>
+<edge source="Microsoft" target="Anthropic">
+  <data key="d2">investment</data>
+  <data key="d3">Up to $5B</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">ANTH</data>
+</edge>
+<edge source="Microsoft" target="AMD">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Helios racks on Azure</data>
+  <data key="d4">2026</data>
+  <data key="d5">AMDANTH</data>
+</edge>
+<edge source="Amazon" target="Anthropic">
+  <data key="d2">investment</data>
+  <data key="d3">$8B; AWS primary training partner</data>
+  <data key="d4">2025</data>
+  <data key="d5">CRNA</data>
+</edge>
+<edge source="Amazon" target="OpenAI">
+  <data key="d2">investment</data>
+  <data key="d3">$50B commitment</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">STORY</data>
+</edge>
+<edge source="Google" target="Anthropic">
+  <data key="d2">investment</data>
+  <data key="d3">$40B</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="Google" target="Broadcom">
+  <data key="d2">ecosystem</data>
+  <data key="d3">TPU design partner (training)</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="Google" target="MediaTek">
+  <data key="d2">ecosystem</data>
+  <data key="d3">TPU design partner (inference)</data>
+  <data key="d4">2026-04</data>
+  <data key="d5">TPU</data>
+</edge>
+<edge source="Google" target="Marvell">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Custom silicon deal with share warrant</data>
+  <data key="d4">2026-07</data>
+  <data key="d5">MARV</data>
+</edge>
+<edge source="Meta" target="AMD">
+  <data key="d2">ecosystem</data>
+  <data key="d3">6 GW custom MI450 over 5 years</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">AMDMETA</data>
+</edge>
+<edge source="Meta" target="Google">
+  <data key="d2">ecosystem</data>
+  <data key="d3">TPU supply talks</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">VERD</data>
+</edge>
+<edge source="Meta" target="CoreWeave">
+  <data key="d2">ecosystem</data>
+  <data key="d3">NVIDIA Cloud Partner capacity</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">METAP</data>
+</edge>
+<edge source="Meta" target="Crusoe">
+  <data key="d2">ecosystem</data>
+  <data key="d3">NVIDIA Cloud Partner capacity</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">METAP</data>
+</edge>
+<edge source="Oracle" target="G42">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Stargate UAE</data>
+  <data key="d4">2026</data>
+  <data key="d5">HUM</data>
+</edge>
+<edge source="Oracle" target="AMD">
+  <data key="d2">ecosystem</data>
+  <data key="d3">50k MI450 GPUs</data>
+  <data key="d4">2026</data>
+  <data key="d5">AMDANTH</data>
+</edge>
+<edge source="AMD" target="Anthropic">
+  <data key="d2">investment</data>
+  <data key="d3">Up to $5B equity tied to MI450 milestones</data>
+  <data key="d4">2026</data>
+  <data key="d5">AMDANTH</data>
+</edge>
+<edge source="AMD" target="Tensormesh">
+  <data key="d2">investment</data>
+  <data key="d3">Seed extension</data>
+  <data key="d4">2026-05</data>
+  <data key="d5">KUCOIN</data>
+</edge>
+<edge source="Intel" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Custom x86 data-center CPUs for NVIDIA platforms</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">INTEL</data>
+</edge>
+<edge source="Arm" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">CPU IP in Grace (72 Neoverse V2 cores); $40B takeover abandoned 2022</data>
+  <data key="d4"></data>
+  <data key="d5">DECMETA</data>
+</edge>
+<edge source="TSMC" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Wafer fabrication and CoWoS packaging</data>
+  <data key="d4"></data>
+  <data key="d5">HBM</data>
+</edge>
+<edge source="TSMC" target="Google">
+  <data key="d2">ecosystem</data>
+  <data key="d3">TPU foundry</data>
+  <data key="d4"></data>
+  <data key="d5">VERD</data>
+</edge>
+<edge source="TSMC" target="Microsoft">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Maia 200 on 3nm</data>
+  <data key="d4">2026</data>
+  <data key="d5">ASIC</data>
+</edge>
+<edge source="SK Hynix" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">HBM memory</data>
+  <data key="d4"></data>
+  <data key="d5">HBM</data>
+</edge>
+<edge source="Samsung" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">HBM memory</data>
+  <data key="d4"></data>
+  <data key="d5">HBM</data>
+</edge>
+<edge source="Micron" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">HBM memory</data>
+  <data key="d4"></data>
+  <data key="d5">HBM</data>
+</edge>
+<edge source="Amkor" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Advanced packaging capacity</data>
+  <data key="d4"></data>
+  <data key="d5">HBM</data>
+</edge>
+<edge source="ASE" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Packaging</data>
+  <data key="d4"></data>
+  <data key="d5">GB200</data>
+</edge>
+<edge source="Ibiden" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Substrates; multibillion capacity reservation</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="Unimicron" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Substrates (2.5x capacity plan)</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="Samsung Electro-Mechanics" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Substrates (2.5x capacity plan)</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN2</data>
+</edge>
+<edge source="Murata" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Passive components</data>
+  <data key="d4"></data>
+  <data key="d5">GB200</data>
+</edge>
+<edge source="Amphenol" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Connectors and cables</data>
+  <data key="d4"></data>
+  <data key="d5">GB200</data>
+</edge>
+<edge source="Foxconn" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Largest GB200 rack builder; module assembly</data>
+  <data key="d4"></data>
+  <data key="d5">ODM</data>
+</edge>
+<edge source="Foxconn" target="Google">
+  <data key="d2">ecosystem</data>
+  <data key="d3">TPU servers</data>
+  <data key="d4">2025-12</data>
+  <data key="d5">VERD</data>
+</edge>
+<edge source="Foxconn" target="Stellantis">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Co-develop L4 vehicles</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO4</data>
+</edge>
+<edge source="Quanta" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">GB200/GB300 rack ODM</data>
+  <data key="d4"></data>
+  <data key="d5">ODM</data>
+</edge>
+<edge source="Wistron" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Boards and accelerator cards</data>
+  <data key="d4"></data>
+  <data key="d5">ODM</data>
+</edge>
+<edge source="Wiwynn" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Rack ODM</data>
+  <data key="d4"></data>
+  <data key="d5">ODM</data>
+</edge>
+<edge source="Inventec" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">Server boards</data>
+  <data key="d4"></data>
+  <data key="d5">ODM</data>
+</edge>
+<edge source="Gigabyte" target="NVIDIA">
+  <data key="d2">supplier</data>
+  <data key="d3">ODM partner</data>
+  <data key="d4"></data>
+  <data key="d5">ODM</data>
+</edge>
+<edge source="Dell" target="CoreWeave">
+  <data key="d2">ecosystem</data>
+  <data key="d3">First to ship GB200, GB300 and Vera Rubin racks</data>
+  <data key="d4">2026</data>
+  <data key="d5">OEM</data>
+</edge>
+<edge source="Dell" target="xAI">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Built Colossus racks</data>
+  <data key="d4"></data>
+  <data key="d5">XAI</data>
+</edge>
+<edge source="Dell" target="Nokia">
+  <data key="d2">ecosystem</data>
+  <data key="d3">PowerEdge servers for AI-RAN</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">NOKIA</data>
+</edge>
+<edge source="Supermicro" target="xAI">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Built Colossus racks</data>
+  <data key="d4"></data>
+  <data key="d5">XAI</data>
+</edge>
+<edge source="Cisco" target="xAI">
+  <data key="d2">investment</data>
+  <data key="d3">Series E co-investor</data>
+  <data key="d4">2026-01</data>
+  <data key="d5">FXAI</data>
+</edge>
+<edge source="Mercedes-Benz" target="Uber">
+  <data key="d2">ecosystem</data>
+  <data key="d3">S-Class robotaxi venture</data>
+  <data key="d4">2026-01</data>
+  <data key="d5">BGOV</data>
+</edge>
+<edge source="Stellantis" target="Uber">
+  <data key="d2">ecosystem</data>
+  <data key="d3">L4 robotaxis from 2028</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AUTO4</data>
+</edge>
+<edge source="Lucid" target="Uber">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Uber-exclusive robotaxi fleet</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AXIOS</data>
+</edge>
+<edge source="Nuro" target="Uber">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Self-driving system for Lucid fleet</data>
+  <data key="d4">2025-10</data>
+  <data key="d5">AXIOS</data>
+</edge>
+<edge source="Nokia" target="T-Mobile">
+  <data key="d2">ecosystem</data>
+  <data key="d3">AI-RAN call on live network</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="Nokia" target="SoftBank">
+  <data key="d2">ecosystem</data>
+  <data key="d3">AI-RAN demonstration</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL2</data>
+</edge>
+<edge source="Nokia" target="Indosat">
+  <data key="d2">ecosystem</data>
+  <data key="d3">First AI-RAN 5G call in SE Asia</data>
+  <data key="d4">2026-03</data>
+  <data key="d5">TEL2</data>
+</edge>
+<edge source="Nokia" target="BT">
+  <data key="d2">ecosystem</data>
+  <data key="d3">anyRAN trials</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="Nokia" target="Deutsche Telekom">
+  <data key="d2">ecosystem</data>
+  <data key="d3">anyRAN trials</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="Nokia" target="Elisa">
+  <data key="d2">ecosystem</data>
+  <data key="d3">anyRAN trials</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN3</data>
+</edge>
+<edge source="Nokia" target="Orange">
+  <data key="d2">ecosystem</data>
+  <data key="d3">anyRAN tests</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="SoftBank" target="OpenAI">
+  <data key="d2">investment</data>
+  <data key="d3">$30B; lead Stargate financier</data>
+  <data key="d4">2026-02</data>
+  <data key="d5">STORY</data>
+</edge>
+<edge source="Deutsche Telekom" target="Agile Robots">
+  <data key="d2">ecosystem</data>
+  <data key="d3">Industrial AI Cloud customer</data>
+  <data key="d4">2026-10</data>
+  <data key="d5">BERLIN</data>
+</edge>
+<edge source="Saudi PIF" target="Humain">
+  <data key="d2">investment</data>
+  <data key="d3">Owner</data>
+  <data key="d4">2025-05</data>
+  <data key="d5">HUM</data>
+</edge>
+<edge source="US Commerce Dept (BIS)" target="NVIDIA">
+  <data key="d2">regulator</data>
+  <data key="d3">Export controls; small H200 licenses for China with 25% duty</data>
+  <data key="d4">2026</data>
+  <data key="d5">CHINA</data>
+</edge>
+<edge source="US Commerce Dept (BIS)" target="Humain">
+  <data key="d2">regulator</data>
+  <data key="d3">Approved up to 35k Blackwell chips</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">HUM2</data>
+</edge>
+<edge source="US Commerce Dept (BIS)" target="G42">
+  <data key="d2">regulator</data>
+  <data key="d3">Approved up to 35k Blackwell chips</data>
+  <data key="d4">2025-11</data>
+  <data key="d5">HUM2</data>
+</edge>
+<edge source="China SAMR" target="NVIDIA">
+  <data key="d2">regulator</data>
+  <data key="d3">Preliminary finding that NVIDIA breached Mellanox approval terms</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">S10Q</data>
+</edge>
+<edge source="China SAMR" target="Mellanox">
+  <data key="d2">regulator</data>
+  <data key="d3">Conditional approval of the 2020 deal</data>
+  <data key="d4">2025-09</data>
+  <data key="d5">S10Q</data>
+</edge>
+<edge source="Jensen Huang" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">Co-founder, President and CEO since 1993</data>
+  <data key="d4"></data>
+  <data key="d5">LEAD</data>
+</edge>
+<edge source="Chris Malachowsky" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">Co-founder and NVIDIA Fellow</data>
+  <data key="d4"></data>
+  <data key="d5">KOMO</data>
+</edge>
+<edge source="Colette Kress" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">EVP and CFO since 2013</data>
+  <data key="d4"></data>
+  <data key="d5">LEAD</data>
+</edge>
+<edge source="Jay Puri" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">EVP Worldwide Field Operations; retiring</data>
+  <data key="d4"></data>
+  <data key="d5">LEAD2</data>
+</edge>
+<edge source="Nicholas Parker" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">Succeeds Puri as EVP Field Operations (Aug 2026)</data>
+  <data key="d4">2026-08</data>
+  <data key="d5">LEAD2</data>
+</edge>
+<edge source="Debora Shoquist" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">EVP Operations (supply chain)</data>
+  <data key="d4"></data>
+  <data key="d5">LEAD</data>
+</edge>
+<edge source="Tim Teter" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">EVP and General Counsel</data>
+  <data key="d4"></data>
+  <data key="d5">LEAD</data>
+</edge>
+<edge source="Bill Dally" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">Chief Scientist</data>
+  <data key="d4"></data>
+  <data key="d5">SWS</data>
+</edge>
+<edge source="Ian Buck" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">VP Hyperscale and HPC</data>
+  <data key="d4"></data>
+  <data key="d5">DECMETA</data>
+</edge>
+<edge source="Kimberly Powell" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">VP Healthcare</data>
+  <data key="d4"></data>
+  <data key="d5">LILLY</data>
+</edge>
+<edge source="Ali Kani" target="NVIDIA">
+  <data key="d2">leadership</data>
+  <data key="d3">VP Automotive</data>
+  <data key="d4"></data>
+  <data key="d5">AXIOS</data>
+</edge>
+</graph></graphml>

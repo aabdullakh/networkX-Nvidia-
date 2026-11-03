@@ -1,0 +1,187 @@
+id,category,country
+NVIDIA,NVIDIA,US
+OpenAI,AI lab,US
+Anthropic,AI lab,US
+xAI,AI lab,US
+Mistral AI,AI lab,FR
+Cohere,AI lab,CA
+Reflection AI,AI lab,US
+Thinking Machines Lab,AI lab,US
+Black Forest Labs,AI lab,DE
+Perplexity,AI lab,US
+Runway,AI lab,US
+Synthesia,AI lab,UK
+Cursor,AI lab,US
+Prime Intellect,AI lab,US
+Google DeepMind,AI lab,UK
+CoreWeave,AI cloud,US
+Nebius,AI cloud,NL
+Nscale,AI cloud,UK
+Lambda,AI cloud,US
+Crusoe,AI cloud,US
+Together AI,AI cloud,US
+Fireworks AI,AI cloud,US
+Baseten,AI cloud,US
+IREN,AI cloud,AU
+Firmus,AI cloud,AU
+Starcloud,AI cloud,US
+OpenRouter,AI cloud,US
+Tensormesh,AI cloud,US
+Applied Digital,AI cloud,US
+Microsoft,Big tech,US
+Amazon,Big tech,US
+Google,Big tech,US
+Meta,Big tech,US
+Oracle,Big tech,US
+Alibaba,Big tech,CN
+AMD,Chips,US
+Intel,Chips,US
+Broadcom,Chips,US
+Marvell,Chips,US
+Qualcomm,Chips,US
+MediaTek,Chips,TW
+Arm,Chips,UK
+Cerebras,Chips,US
+Huawei,Chips,CN
+Cambricon,Chips,CN
+MetaX,Chips,CN
+Moore Threads,Chips,CN
+Fujitsu,Chips,JP
+Synopsys,Chips,US
+TSMC,Supply chain,TW
+SK Hynix,Supply chain,KR
+Samsung,Supply chain,KR
+Micron,Supply chain,US
+Amkor,Supply chain,US
+ASE,Supply chain,TW
+Ibiden,Supply chain,JP
+Unimicron,Supply chain,TW
+Samsung Electro-Mechanics,Supply chain,KR
+Murata,Supply chain,JP
+Amphenol,Supply chain,US
+Corning,Supply chain,US
+Lumentum,Supply chain,US
+Coherent,Supply chain,US
+Foxconn,Servers,TW
+Quanta,Servers,TW
+Wistron,Servers,TW
+Wiwynn,Servers,TW
+Inventec,Servers,TW
+Gigabyte,Servers,TW
+Dell,Servers,US
+Supermicro,Servers,US
+HPE,Servers,US
+Lenovo,Servers,CN
+Cisco,Servers,US
+Vertiv,Power & cooling,US
+Schneider Electric,Power & cooling,FR
+Eaton,Power & cooling,IE
+TerraPower,Power & cooling,US
+Uber,Mobility,US
+Mercedes-Benz,Mobility,DE
+Stellantis,Mobility,NL
+Lucid,Mobility,US
+Toyota,Mobility,JP
+GM,Mobility,US
+BYD,Mobility,CN
+Hyundai,Mobility,KR
+Kia,Mobility,KR
+Nissan,Mobility,JP
+Geely,Mobility,CN
+Isuzu,Mobility,JP
+Aurora,Mobility,US
+Volvo Autonomous Solutions,Mobility,SE
+Waabi,Mobility,CA
+Wayve,Mobility,UK
+Oxa,Mobility,UK
+Audi,Mobility,DE
+Nuro,Mobility,US
+WeRide,Mobility,CN
+1X,Robotics,NO
+Agility Robotics,Robotics,US
+Apptronik,Robotics,US
+Boston Dynamics,Robotics,US
+Figure AI,Robotics,US
+Fourier,Robotics,CN
+Sanctuary AI,Robotics,CA
+Unitree,Robotics,CN
+XPENG,Robotics,CN
+NEURA Robotics,Robotics,DE
+Mentee Robotics,Robotics,IL
+Disney Research,Robotics,US
+Agile Robots,Robotics,DE
+Generalist AI,Robotics,US
+Nokia,Telecom,FI
+Ericsson,Telecom,SE
+T-Mobile,Telecom,US
+SoftBank,Telecom,JP
+BT,Telecom,UK
+Deutsche Telekom,Telecom,DE
+SK Telecom,Telecom,KR
+Orange,Telecom,FR
+Elisa,Telecom,FI
+Indosat,Telecom,ID
+NTT DOCOMO,Telecom,JP
+Vodafone,Telecom,UK
+Humain,Sovereign AI,SA
+G42,Sovereign AI,AE
+Saudi PIF,Sovereign AI,SA
+Korea MSIT,Sovereign AI,KR
+SK Group,Sovereign AI,KR
+NAVER Cloud,Sovereign AI,KR
+Reliance,Sovereign AI,IN
+Tata Group,Sovereign AI,IN
+German government,Sovereign AI,DE
+UK government,Sovereign AI,UK
+Eli Lilly,Health & science,US
+Novo Nordisk,Health & science,DK
+Thermo Fisher,Health & science,US
+Johnson & Johnson,Health & science,US
+Siemens Healthineers,Health & science,DE
+Hippocratic AI,Health & science,US
+Abridge,Health & science,US
+Aidoc,Health & science,IL
+Doctolib,Health & science,FR
+Recursion,Health & science,US
+Quantinuum,Quantum,US
+PsiQuantum,Quantum,US
+Alice & Bob,Quantum,FR
+SAP,Enterprise software,DE
+ServiceNow,Enterprise software,US
+CrowdStrike,Enterprise software,US
+Palo Alto Networks,Enterprise software,US
+Siemens,Enterprise software,DE
+Legora,Enterprise software,SE
+Pigment,Enterprise software,FR
+Genesis AI,Enterprise software,FR
+Booz Allen,Enterprise software,US
+Mellanox,Acquired by NVIDIA,IL
+Cumulus Networks,Acquired by NVIDIA,US
+Run:ai,Acquired by NVIDIA,IL
+Deci,Acquired by NVIDIA,IL
+OctoAI,Acquired by NVIDIA,US
+Brev.dev,Acquired by NVIDIA,US
+Shoreline,Acquired by NVIDIA,US
+VinBrain,Acquired by NVIDIA,VN
+Gretel,Acquired by NVIDIA,US
+Lepton AI,Acquired by NVIDIA,US
+CentML,Acquired by NVIDIA,CA
+Solver,Acquired by NVIDIA,US
+Enfabrica,Acquired by NVIDIA,US
+SchedMD,Acquired by NVIDIA,US
+Groq,Acquired by NVIDIA,US
+Kumo AI,Acquired by NVIDIA,US
+Hugging Face,Acquired by NVIDIA,US
+US Commerce Dept (BIS),Regulator,US
+China SAMR,Regulator,CN
+Jensen Huang,Person,US
+Chris Malachowsky,Person,US
+Colette Kress,Person,US
+Jay Puri,Person,US
+Nicholas Parker,Person,US
+Debora Shoquist,Person,US
+Tim Teter,Person,US
+Bill Dally,Person,US
+Ian Buck,Person,US
+Kimberly Powell,Person,US
+Ali Kani,Person,US
